@@ -1,0 +1,32 @@
+device: cuda:0
+config.json loaded
+device: cuda:0
+fastext lines 999994
+Loading PCA transformed embeddings from pca_embeddings30.pkl
+len of sen1 train sent2 train labels train 9824 9824 9824
+{13, 14} 0
+Size of training data: 9824
+
+Tokenizing sentence 1 list...
+9824
+<class 'str'>
+defaultdict(<class 'int'>, {<class 'str'>: 9824})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 9824})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating data_loader ../datasets/snli_1.0/snli_1.0_test.txt
+/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/FFNN/utils.py:418: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model_test.load_state_dict(torch.load("Models/BestModel/ffnn_model.pth"))
+Accuracy: 47.03%
+Predictions saved to Models/snli_test_preds.txt
+True labels saved to Models/snli_test_labels.txt

@@ -1,0 +1,18 @@
+
+ epoch 101	val Loss at 100 steps : 37.64120200276375
+	val Accuracy : 0.8183787128712872
+
+ epoch 201	val Loss at 200 steps : 72.6785414069891
+	val Accuracy : 0.8264925373134329
+
+ epoch 301	val Loss at 300 steps : 108.70517134666443
+	val Accuracy : 0.8303571428571429
+
+ epoch 401	val Loss at 400 steps : 145.0119677335024
+	val Accuracy : 0.8315928927680798
+
+ epoch 501	val Loss at 500 steps : 181.5841288715601
+	val Accuracy : 0.8308383233532934
+
+ epoch 601	val Loss at 600 steps : 217.54304620623589
+	val Accuracy : 0.8311148086522463

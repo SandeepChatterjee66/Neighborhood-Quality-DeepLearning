@@ -1,0 +1,439 @@
+config.json loaded
+device: cuda:0
+fastext lines 999994
+starting to build embeddings
+Loading PCA transformed embeddings from pca_embeddings30.pkl
+built the embeddings 999996 999996 999996
+weights array (999996, 30)
+initial dataset size 404290
+Training set size: 323432
+Validation set size: 40429
+Test set size: 40429
+<class 'int'>
+Apa itu antigen Duffy?
+Apa hubungan antara antigen dan antibodi?
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 323432})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 323432})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating train_loader.
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Epoch: [1/15], Step: [101/1264], Validation Acc: 63.2120507556457
+Epoch: [1/15], Step: [101/1264], Training Loss: 0.6255821585655212
+Epoch: [1/15], Step: [201/1264], Validation Acc: 63.2120507556457
+Epoch: [1/15], Step: [201/1264], Training Loss: 0.6453872919082642
+Epoch: [1/15], Step: [301/1264], Validation Acc: 65.90566177743699
+Epoch: [1/15], Step: [301/1264], Training Loss: 0.632076621055603
+Epoch: [1/15], Step: [401/1264], Validation Acc: 65.26997947018229
+Epoch: [1/15], Step: [401/1264], Training Loss: 0.592059314250946
+Epoch: [1/15], Step: [501/1264], Validation Acc: 66.23216008310865
+Epoch: [1/15], Step: [501/1264], Training Loss: 0.6064762473106384
+Epoch: [1/15], Step: [601/1264], Validation Acc: 65.63605332805659
+Epoch: [1/15], Step: [601/1264], Training Loss: 0.6221663355827332
+Epoch: [1/15], Step: [701/1264], Validation Acc: 64.81238714783942
+Epoch: [1/15], Step: [701/1264], Training Loss: 0.6377889513969421
+Epoch: [1/15], Step: [801/1264], Validation Acc: 65.24771822206831
+Epoch: [1/15], Step: [801/1264], Training Loss: 0.651650607585907
+Epoch: [1/15], Step: [901/1264], Validation Acc: 66.84558114224937
+Epoch: [1/15], Step: [901/1264], Training Loss: 0.5913686752319336
+Epoch: [1/15], Step: [1001/1264], Validation Acc: 63.2120507556457
+Epoch: [1/15], Step: [1001/1264], Training Loss: 0.6260066628456116
+Epoch: [1/15], Step: [1101/1264], Validation Acc: 66.72190754161616
+Epoch: [1/15], Step: [1101/1264], Training Loss: 0.6396445631980896
+Epoch: [1/15], Step: [1201/1264], Validation Acc: 64.4413663459398
+Epoch: [1/15], Step: [1201/1264], Training Loss: 0.6247289180755615
+test accuracy at epoch 1 is 59.37569566400356
+Epoch: [2/15], Step: [101/1264], Validation Acc: 66.9123648865913
+Epoch: [2/15], Step: [101/1264], Training Loss: 0.5815258622169495
+Epoch: [2/15], Step: [201/1264], Validation Acc: 67.17949986395904
+Epoch: [2/15], Step: [201/1264], Training Loss: 0.6207150816917419
+Epoch: [2/15], Step: [301/1264], Validation Acc: 66.3879888199065
+Epoch: [2/15], Step: [301/1264], Training Loss: 0.6210538148880005
+Epoch: [2/15], Step: [401/1264], Validation Acc: 66.86784239036335
+Epoch: [2/15], Step: [401/1264], Training Loss: 0.574033260345459
+Epoch: [2/15], Step: [501/1264], Validation Acc: 64.91627297237132
+Epoch: [2/15], Step: [501/1264], Training Loss: 0.5807440876960754
+Epoch: [2/15], Step: [601/1264], Validation Acc: 67.20176111207302
+Epoch: [2/15], Step: [601/1264], Training Loss: 0.6291691064834595
+Epoch: [2/15], Step: [701/1264], Validation Acc: 67.23144277622498
+Epoch: [2/15], Step: [701/1264], Training Loss: 0.6370851397514343
+Epoch: [2/15], Step: [801/1264], Validation Acc: 66.86042197432536
+Epoch: [2/15], Step: [801/1264], Training Loss: 0.6524938941001892
+Epoch: [2/15], Step: [901/1264], Validation Acc: 65.46538375918277
+Epoch: [2/15], Step: [901/1264], Training Loss: 0.6010579466819763
+Epoch: [2/15], Step: [1001/1264], Validation Acc: 67.27101832842762
+Epoch: [2/15], Step: [1001/1264], Training Loss: 0.6263040900230408
+Epoch: [2/15], Step: [1101/1264], Validation Acc: 67.35016943283287
+Epoch: [2/15], Step: [1101/1264], Training Loss: 0.6394628286361694
+Epoch: [2/15], Step: [1201/1264], Validation Acc: 67.26112444037696
+Epoch: [2/15], Step: [1201/1264], Training Loss: 0.6249395608901978
+test accuracy at epoch 2 is 64.22617428083801
+Epoch: [3/15], Step: [101/1264], Validation Acc: 67.39221845704816
+Epoch: [3/15], Step: [101/1264], Training Loss: 0.5954554080963135
+Epoch: [3/15], Step: [201/1264], Validation Acc: 66.34099285166589
+Epoch: [3/15], Step: [201/1264], Training Loss: 0.6424331665039062
+Epoch: [3/15], Step: [301/1264], Validation Acc: 66.72932795765416
+Epoch: [3/15], Step: [301/1264], Training Loss: 0.6115838289260864
+Epoch: [3/15], Step: [401/1264], Validation Acc: 63.76363501446981
+Epoch: [3/15], Step: [401/1264], Training Loss: 0.6011044979095459
+Epoch: [3/15], Step: [501/1264], Validation Acc: 64.29790496920528
+Epoch: [3/15], Step: [501/1264], Training Loss: 0.6154458522796631
+Epoch: [3/15], Step: [601/1264], Validation Acc: 63.2120507556457
+Epoch: [3/15], Step: [601/1264], Training Loss: 0.6235129833221436
+Epoch: [3/15], Step: [701/1264], Validation Acc: 66.54381755670434
+Epoch: [3/15], Step: [701/1264], Training Loss: 0.6450181603431702
+Epoch: [3/15], Step: [801/1264], Validation Acc: 67.43179400925078
+Epoch: [3/15], Step: [801/1264], Training Loss: 0.6315672993659973
+Epoch: [3/15], Step: [901/1264], Validation Acc: 67.0434589032625
+Epoch: [3/15], Step: [901/1264], Training Loss: 0.5883775353431702
+Epoch: [3/15], Step: [1001/1264], Validation Acc: 67.38479804101017
+Epoch: [3/15], Step: [1001/1264], Training Loss: 0.6155095100402832
+Epoch: [3/15], Step: [1101/1264], Validation Acc: 65.73004526453784
+Epoch: [3/15], Step: [1101/1264], Training Loss: 0.6164669394493103
+Epoch: [3/15], Step: [1201/1264], Validation Acc: 67.0434589032625
+Epoch: [3/15], Step: [1201/1264], Training Loss: 0.6251545548439026
+test accuracy at epoch 3 is 64.77528506764946
+Epoch: [4/15], Step: [101/1264], Validation Acc: 67.50105122560538
+Epoch: [4/15], Step: [101/1264], Training Loss: 0.5853633880615234
+Epoch: [4/15], Step: [201/1264], Validation Acc: 67.37737762497217
+Epoch: [4/15], Step: [201/1264], Training Loss: 0.6436763405799866
+Epoch: [4/15], Step: [301/1264], Validation Acc: 66.66749115733755
+Epoch: [4/15], Step: [301/1264], Training Loss: 0.5998224020004272
+Epoch: [4/15], Step: [401/1264], Validation Acc: 67.28338568849094
+Epoch: [4/15], Step: [401/1264], Training Loss: 0.5829882025718689
+Epoch: [4/15], Step: [501/1264], Validation Acc: 67.26359791238963
+Epoch: [4/15], Step: [501/1264], Training Loss: 0.5793734788894653
+Epoch: [4/15], Step: [601/1264], Validation Acc: 66.75653614979346
+Epoch: [4/15], Step: [601/1264], Training Loss: 0.6316351294517517
+Epoch: [4/15], Step: [701/1264], Validation Acc: 66.25442133122263
+Epoch: [4/15], Step: [701/1264], Training Loss: 0.6131244897842407
+Epoch: [4/15], Step: [801/1264], Validation Acc: 66.93957307873062
+Epoch: [4/15], Step: [801/1264], Training Loss: 0.6309146881103516
+Epoch: [4/15], Step: [901/1264], Validation Acc: 66.40035617996982
+Epoch: [4/15], Step: [901/1264], Training Loss: 0.5852230191230774
+Epoch: [4/15], Step: [1001/1264], Validation Acc: 67.52578594573203
+Epoch: [4/15], Step: [1001/1264], Training Loss: 0.622148334980011
+Epoch: [4/15], Step: [1101/1264], Validation Acc: 65.22298350194167
+Epoch: [4/15], Step: [1101/1264], Training Loss: 0.6086113452911377
+Epoch: [4/15], Step: [1201/1264], Validation Acc: 67.32296124069356
+Epoch: [4/15], Step: [1201/1264], Training Loss: 0.6230481266975403
+test accuracy at epoch 4 is 66.43498478814712
+Epoch: [5/15], Step: [101/1264], Validation Acc: 67.52083900170669
+Epoch: [5/15], Step: [101/1264], Training Loss: 0.5764083862304688
+Epoch: [5/15], Step: [201/1264], Validation Acc: 65.06715476514383
+Epoch: [5/15], Step: [201/1264], Training Loss: 0.6097347736358643
+Epoch: [5/15], Step: [301/1264], Validation Acc: 67.43674095327611
+Epoch: [5/15], Step: [301/1264], Training Loss: 0.592964231967926
+Epoch: [5/15], Step: [401/1264], Validation Acc: 66.61802171708428
+Epoch: [5/15], Step: [401/1264], Training Loss: 0.5664882063865662
+Epoch: [5/15], Step: [501/1264], Validation Acc: 67.78055356303643
+Epoch: [5/15], Step: [501/1264], Training Loss: 0.5807662606239319
+Epoch: [5/15], Step: [601/1264], Validation Acc: 67.2858591605036
+Epoch: [5/15], Step: [601/1264], Training Loss: 0.6319699883460999
+Epoch: [5/15], Step: [701/1264], Validation Acc: 67.69150857058052
+Epoch: [5/15], Step: [701/1264], Training Loss: 0.6091749668121338
+Epoch: [5/15], Step: [801/1264], Validation Acc: 67.08798139949046
+Epoch: [5/15], Step: [801/1264], Training Loss: 0.6448261141777039
+Epoch: [5/15], Step: [901/1264], Validation Acc: 67.27349180044028
+Epoch: [5/15], Step: [901/1264], Training Loss: 0.5863891839981079
+Epoch: [5/15], Step: [1001/1264], Validation Acc: 67.91906799574562
+Epoch: [5/15], Step: [1001/1264], Training Loss: 0.619468092918396
+Epoch: [5/15], Step: [1101/1264], Validation Acc: 67.7483984268718
+Epoch: [5/15], Step: [1101/1264], Training Loss: 0.6048626899719238
+Epoch: [5/15], Step: [1201/1264], Validation Acc: 67.75087189888447
+Epoch: [5/15], Step: [1201/1264], Training Loss: 0.6224737167358398
+test accuracy at epoch 5 is 67.65687996240322
+Epoch: [6/15], Step: [101/1264], Validation Acc: 67.02614459917386
+Epoch: [6/15], Step: [101/1264], Training Loss: 0.5794744491577148
+Epoch: [6/15], Step: [201/1264], Validation Acc: 68.15899478097406
+Epoch: [6/15], Step: [201/1264], Training Loss: 0.6196111440658569
+Epoch: [6/15], Step: [301/1264], Validation Acc: 66.33109896361523
+Epoch: [6/15], Step: [301/1264], Training Loss: 0.6110705137252808
+Epoch: [6/15], Step: [401/1264], Validation Acc: 67.73850453882115
+Epoch: [6/15], Step: [401/1264], Training Loss: 0.5461308360099792
+Epoch: [6/15], Step: [501/1264], Validation Acc: 67.78797397907442
+Epoch: [6/15], Step: [501/1264], Training Loss: 0.5639274716377258
+Epoch: [6/15], Step: [601/1264], Validation Acc: 67.69150857058052
+Epoch: [6/15], Step: [601/1264], Training Loss: 0.6052095293998718
+Epoch: [6/15], Step: [701/1264], Validation Acc: 65.8215637290064
+Epoch: [6/15], Step: [701/1264], Training Loss: 0.6191797852516174
+Epoch: [6/15], Step: [801/1264], Validation Acc: 68.18620297311335
+Epoch: [6/15], Step: [801/1264], Training Loss: 0.6444706320762634
+Epoch: [6/15], Step: [901/1264], Validation Acc: 67.7483984268718
+Epoch: [6/15], Step: [901/1264], Training Loss: 0.5713925361633301
+Epoch: [6/15], Step: [1001/1264], Validation Acc: 67.19186722402236
+Epoch: [6/15], Step: [1001/1264], Training Loss: 0.6351252198219299
+Epoch: [6/15], Step: [1101/1264], Validation Acc: 66.31873160355191
+Epoch: [6/15], Step: [1101/1264], Training Loss: 0.6068678498268127
+Epoch: [6/15], Step: [1201/1264], Validation Acc: 68.36923990205051
+Epoch: [6/15], Step: [1201/1264], Training Loss: 0.6215512156486511
+test accuracy at epoch 6 is 67.08303445546514
+Epoch: [7/15], Step: [101/1264], Validation Acc: 66.82084642212273
+Epoch: [7/15], Step: [101/1264], Training Loss: 0.6067847609519958
+Epoch: [7/15], Step: [201/1264], Validation Acc: 67.7830270350491
+Epoch: [7/15], Step: [201/1264], Training Loss: 0.6090057492256165
+Epoch: [7/15], Step: [301/1264], Validation Acc: 68.1491008929234
+Epoch: [7/15], Step: [301/1264], Training Loss: 0.6177627444267273
+Epoch: [7/15], Step: [401/1264], Validation Acc: 68.03779465235351
+Epoch: [7/15], Step: [401/1264], Training Loss: 0.5546269416809082
+Epoch: [7/15], Step: [501/1264], Validation Acc: 67.15476514383239
+Epoch: [7/15], Step: [501/1264], Training Loss: 0.5765388011932373
+Epoch: [7/15], Step: [601/1264], Validation Acc: 68.02790076430286
+Epoch: [7/15], Step: [601/1264], Training Loss: 0.612680971622467
+Epoch: [7/15], Step: [701/1264], Validation Acc: 67.38727151302282
+Epoch: [7/15], Step: [701/1264], Training Loss: 0.590937614440918
+Epoch: [7/15], Step: [801/1264], Validation Acc: 66.61554824507161
+Epoch: [7/15], Step: [801/1264], Training Loss: 0.6295825839042664
+Epoch: [7/15], Step: [901/1264], Validation Acc: 68.17878255707537
+Epoch: [7/15], Step: [901/1264], Training Loss: 0.5810190439224243
+Epoch: [7/15], Step: [1001/1264], Validation Acc: 68.06747631650548
+Epoch: [7/15], Step: [1001/1264], Training Loss: 0.6128396987915039
+Epoch: [7/15], Step: [1101/1264], Validation Acc: 68.31235004575923
+Epoch: [7/15], Step: [1101/1264], Training Loss: 0.6025009155273438
+Epoch: [7/15], Step: [1201/1264], Validation Acc: 68.09963145267011
+Epoch: [7/15], Step: [1201/1264], Training Loss: 0.628919243812561
+test accuracy at epoch 7 is 67.93638229983428
+Epoch: [8/15], Step: [101/1264], Validation Acc: 67.55052066585867
+Epoch: [8/15], Step: [101/1264], Training Loss: 0.578682541847229
+Epoch: [8/15], Step: [201/1264], Validation Acc: 68.06005590046749
+Epoch: [8/15], Step: [201/1264], Training Loss: 0.623695969581604
+Epoch: [8/15], Step: [301/1264], Validation Acc: 67.23638972025032
+Epoch: [8/15], Step: [301/1264], Training Loss: 0.6034484505653381
+Epoch: [8/15], Step: [401/1264], Validation Acc: 68.11199881273343
+Epoch: [8/15], Step: [401/1264], Training Loss: 0.5712562203407288
+Epoch: [8/15], Step: [501/1264], Validation Acc: 66.4646664522991
+Epoch: [8/15], Step: [501/1264], Training Loss: 0.5895410776138306
+Epoch: [8/15], Step: [601/1264], Validation Acc: 67.44910831333944
+Epoch: [8/15], Step: [601/1264], Training Loss: 0.6219464540481567
+Epoch: [8/15], Step: [701/1264], Validation Acc: 66.99151599099656
+Epoch: [8/15], Step: [701/1264], Training Loss: 0.6040881872177124
+Epoch: [8/15], Step: [801/1264], Validation Acc: 68.58195849513963
+Epoch: [8/15], Step: [801/1264], Training Loss: 0.6315486431121826
+Epoch: [8/15], Step: [901/1264], Validation Acc: 67.89433327561899
+Epoch: [8/15], Step: [901/1264], Training Loss: 0.6032584309577942
+Epoch: [8/15], Step: [1001/1264], Validation Acc: 67.22649583219966
+Epoch: [8/15], Step: [1001/1264], Training Loss: 0.6154848337173462
+Epoch: [8/15], Step: [1101/1264], Validation Acc: 67.77313314699845
+Epoch: [8/15], Step: [1101/1264], Training Loss: 0.5825095772743225
+Epoch: [8/15], Step: [1201/1264], Validation Acc: 67.56041455390933
+Epoch: [8/15], Step: [1201/1264], Training Loss: 0.6210525631904602
+test accuracy at epoch 8 is 67.67419426649188
+Epoch: [9/15], Step: [101/1264], Validation Acc: 68.35687254198719
+Epoch: [9/15], Step: [101/1264], Training Loss: 0.5994709134101868
+Epoch: [9/15], Step: [201/1264], Validation Acc: 68.3148235177719
+Epoch: [9/15], Step: [201/1264], Training Loss: 0.6153095960617065
+Epoch: [9/15], Step: [301/1264], Validation Acc: 67.84239036335303
+Epoch: [9/15], Step: [301/1264], Training Loss: 0.5842119455337524
+Epoch: [9/15], Step: [401/1264], Validation Acc: 68.09963145267011
+Epoch: [9/15], Step: [401/1264], Training Loss: 0.5616701245307922
+Epoch: [9/15], Step: [501/1264], Validation Acc: 68.25793366148062
+Epoch: [9/15], Step: [501/1264], Training Loss: 0.5512629747390747
+Epoch: [9/15], Step: [601/1264], Validation Acc: 68.3840807341265
+Epoch: [9/15], Step: [601/1264], Training Loss: 0.5905523896217346
+Epoch: [9/15], Step: [701/1264], Validation Acc: 65.559375695664
+Epoch: [9/15], Step: [701/1264], Training Loss: 0.6202884316444397
+Epoch: [9/15], Step: [801/1264], Validation Acc: 68.3766603180885
+Epoch: [9/15], Step: [801/1264], Training Loss: 0.6122225522994995
+Epoch: [9/15], Step: [901/1264], Validation Acc: 68.56959113507631
+Epoch: [9/15], Step: [901/1264], Training Loss: 0.5961109399795532
+Epoch: [9/15], Step: [1001/1264], Validation Acc: 68.33213782186054
+Epoch: [9/15], Step: [1001/1264], Training Loss: 0.5935796499252319
+Epoch: [9/15], Step: [1101/1264], Validation Acc: 68.31729698978457
+Epoch: [9/15], Step: [1101/1264], Training Loss: 0.6228974461555481
+Epoch: [9/15], Step: [1201/1264], Validation Acc: 67.63214524227658
+Epoch: [9/15], Step: [1201/1264], Training Loss: 0.6308906078338623
+test accuracy at epoch 9 is 67.65687996240322
+Epoch: [10/15], Step: [101/1264], Validation Acc: 67.12261000766776
+Epoch: [10/15], Step: [101/1264], Training Loss: 0.5538935661315918
+Epoch: [10/15], Step: [201/1264], Validation Acc: 68.38655420613915
+Epoch: [10/15], Step: [201/1264], Training Loss: 0.6091891527175903
+Epoch: [10/15], Step: [301/1264], Validation Acc: 68.29750921368324
+Epoch: [10/15], Step: [301/1264], Training Loss: 0.5948176383972168
+Epoch: [10/15], Step: [401/1264], Validation Acc: 67.73603106680848
+Epoch: [10/15], Step: [401/1264], Training Loss: 0.5566623210906982
+Epoch: [10/15], Step: [501/1264], Validation Acc: 67.23391624823765
+Epoch: [10/15], Step: [501/1264], Training Loss: 0.5560407042503357
+Epoch: [10/15], Step: [601/1264], Validation Acc: 68.22577852531599
+Epoch: [10/15], Step: [601/1264], Training Loss: 0.6106701493263245
+Epoch: [10/15], Step: [701/1264], Validation Acc: 67.93638229983428
+Epoch: [10/15], Step: [701/1264], Training Loss: 0.6320175528526306
+Epoch: [10/15], Step: [801/1264], Validation Acc: 68.57948502312696
+Epoch: [10/15], Step: [801/1264], Training Loss: 0.6304749250411987
+Epoch: [10/15], Step: [901/1264], Validation Acc: 67.90422716366965
+Epoch: [10/15], Step: [901/1264], Training Loss: 0.599683403968811
+Epoch: [10/15], Step: [1001/1264], Validation Acc: 68.72047292784882
+Epoch: [10/15], Step: [1001/1264], Training Loss: 0.5992227792739868
+Epoch: [10/15], Step: [1101/1264], Validation Acc: 67.70140245863118
+Epoch: [10/15], Step: [1101/1264], Training Loss: 0.571243405342102
+Epoch: [10/15], Step: [1201/1264], Validation Acc: 68.91093027282396
+Epoch: [10/15], Step: [1201/1264], Training Loss: 0.6075760126113892
+test accuracy at epoch 10 is 68.29008879764525
+Epoch: [11/15], Step: [101/1264], Validation Acc: 68.25298671745529
+Epoch: [11/15], Step: [101/1264], Training Loss: 0.5755619406700134
+Epoch: [11/15], Step: [201/1264], Validation Acc: 68.34697865393653
+Epoch: [11/15], Step: [201/1264], Training Loss: 0.6019302010536194
+Epoch: [11/15], Step: [301/1264], Validation Acc: 68.04274159637883
+Epoch: [11/15], Step: [301/1264], Training Loss: 0.5842233896255493
+Epoch: [11/15], Step: [401/1264], Validation Acc: 68.76499542407677
+Epoch: [11/15], Step: [401/1264], Training Loss: 0.5319505929946899
+Epoch: [11/15], Step: [501/1264], Validation Acc: 67.43426748126345
+Epoch: [11/15], Step: [501/1264], Training Loss: 0.5749800801277161
+Epoch: [11/15], Step: [601/1264], Validation Acc: 67.63214524227658
+Epoch: [11/15], Step: [601/1264], Training Loss: 0.5941662192344666
+Epoch: [11/15], Step: [701/1264], Validation Acc: 68.71799945583616
+Epoch: [11/15], Step: [701/1264], Training Loss: 0.6036791801452637
+Epoch: [11/15], Step: [801/1264], Validation Acc: 69.06181206559648
+Epoch: [11/15], Step: [801/1264], Training Loss: 0.6228588223457336
+Epoch: [11/15], Step: [901/1264], Validation Acc: 68.16146825298672
+Epoch: [11/15], Step: [901/1264], Training Loss: 0.5901109576225281
+Epoch: [11/15], Step: [1001/1264], Validation Acc: 67.54557372183334
+Epoch: [11/15], Step: [1001/1264], Training Loss: 0.6214806437492371
+Epoch: [11/15], Step: [1101/1264], Validation Acc: 68.7773627841401
+Epoch: [11/15], Step: [1101/1264], Training Loss: 0.6074069738388062
+Epoch: [11/15], Step: [1201/1264], Validation Acc: 68.1763090850627
+Epoch: [11/15], Step: [1201/1264], Training Loss: 0.6221661567687988
+test accuracy at epoch 11 is 68.67100348759554
+Epoch: [12/15], Step: [101/1264], Validation Acc: 68.82188528036805
+Epoch: [12/15], Step: [101/1264], Training Loss: 0.5725142955780029
+Epoch: [12/15], Step: [201/1264], Validation Acc: 68.74026070395014
+Epoch: [12/15], Step: [201/1264], Training Loss: 0.6134647130966187
+Epoch: [12/15], Step: [301/1264], Validation Acc: 68.76994236810211
+Epoch: [12/15], Step: [301/1264], Training Loss: 0.5729396939277649
+Epoch: [12/15], Step: [401/1264], Validation Acc: 68.0798436765688
+Epoch: [12/15], Step: [401/1264], Training Loss: 0.5669684410095215
+Epoch: [12/15], Step: [501/1264], Validation Acc: 67.54062677780801
+Epoch: [12/15], Step: [501/1264], Training Loss: 0.5657331943511963
+Epoch: [12/15], Step: [601/1264], Validation Acc: 68.52506863884835
+Epoch: [12/15], Step: [601/1264], Training Loss: 0.6102001667022705
+Epoch: [12/15], Step: [701/1264], Validation Acc: 68.27772143758193
+Epoch: [12/15], Step: [701/1264], Training Loss: 0.6073748469352722
+Epoch: [12/15], Step: [801/1264], Validation Acc: 68.30987657374656
+Epoch: [12/15], Step: [801/1264], Training Loss: 0.5982879400253296
+Epoch: [12/15], Step: [901/1264], Validation Acc: 68.9010363847733
+Epoch: [12/15], Step: [901/1264], Training Loss: 0.5665431022644043
+Epoch: [12/15], Step: [1001/1264], Validation Acc: 69.01976304138118
+Epoch: [12/15], Step: [1001/1264], Training Loss: 0.593125581741333
+Epoch: [12/15], Step: [1101/1264], Validation Acc: 68.72294639986148
+Epoch: [12/15], Step: [1101/1264], Training Loss: 0.5662060976028442
+Epoch: [12/15], Step: [1201/1264], Validation Acc: 69.22011427440698
+Epoch: [12/15], Step: [1201/1264], Training Loss: 0.615346372127533
+test accuracy at epoch 12 is 68.06252937248016
+Epoch: [13/15], Step: [101/1264], Validation Acc: 68.9356649929506
+Epoch: [13/15], Step: [101/1264], Training Loss: 0.5664798617362976
+Epoch: [13/15], Step: [201/1264], Validation Acc: 68.77983625615276
+Epoch: [13/15], Step: [201/1264], Training Loss: 0.5989962816238403
+Epoch: [13/15], Step: [301/1264], Validation Acc: 68.74768111998813
+Epoch: [13/15], Step: [301/1264], Training Loss: 0.5949684381484985
+Epoch: [13/15], Step: [401/1264], Validation Acc: 67.7756066190111
+Epoch: [13/15], Step: [401/1264], Training Loss: 0.5728022456169128
+Epoch: [13/15], Step: [501/1264], Validation Acc: 68.56959113507631
+Epoch: [13/15], Step: [501/1264], Training Loss: 0.5564606189727783
+Epoch: [13/15], Step: [601/1264], Validation Acc: 67.63709218630191
+Epoch: [13/15], Step: [601/1264], Training Loss: 0.6043213605880737
+Epoch: [13/15], Step: [701/1264], Validation Acc: 68.84909347250736
+Epoch: [13/15], Step: [701/1264], Training Loss: 0.6053149700164795
+Epoch: [13/15], Step: [801/1264], Validation Acc: 68.83919958445671
+Epoch: [13/15], Step: [801/1264], Training Loss: 0.628039538860321
+Epoch: [13/15], Step: [901/1264], Validation Acc: 69.10386108981177
+Epoch: [13/15], Step: [901/1264], Training Loss: 0.5689266920089722
+Epoch: [13/15], Step: [1001/1264], Validation Acc: 68.7081055677855
+Epoch: [13/15], Step: [1001/1264], Training Loss: 0.6128867268562317
+Epoch: [13/15], Step: [1101/1264], Validation Acc: 69.2671102426476
+Epoch: [13/15], Step: [1101/1264], Training Loss: 0.5886214971542358
+Epoch: [13/15], Step: [1201/1264], Validation Acc: 68.14415394889807
+Epoch: [13/15], Step: [1201/1264], Training Loss: 0.6011092662811279
+test accuracy at epoch 13 is 68.93319152093794
+Epoch: [14/15], Step: [101/1264], Validation Acc: 68.1416804768854
+Epoch: [14/15], Step: [101/1264], Training Loss: 0.5591215491294861
+Epoch: [14/15], Step: [201/1264], Validation Acc: 68.1144722847461
+Epoch: [14/15], Step: [201/1264], Training Loss: 0.6359411478042603
+Epoch: [14/15], Step: [301/1264], Validation Acc: 68.25051324544263
+Epoch: [14/15], Step: [301/1264], Training Loss: 0.5700697302818298
+Epoch: [14/15], Step: [401/1264], Validation Acc: 69.30421232283757
+Epoch: [14/15], Step: [401/1264], Training Loss: 0.5251747369766235
+Epoch: [14/15], Step: [501/1264], Validation Acc: 67.7756066190111
+Epoch: [14/15], Step: [501/1264], Training Loss: 0.5701172351837158
+Epoch: [14/15], Step: [601/1264], Validation Acc: 69.06923248163447
+Epoch: [14/15], Step: [601/1264], Training Loss: 0.5976786017417908
+Epoch: [14/15], Step: [701/1264], Validation Acc: 67.8522842514037
+Epoch: [14/15], Step: [701/1264], Training Loss: 0.6445037722587585
+Epoch: [14/15], Step: [801/1264], Validation Acc: 69.34873481906553
+Epoch: [14/15], Step: [801/1264], Training Loss: 0.6341056227684021
+Epoch: [14/15], Step: [901/1264], Validation Acc: 68.40634198224048
+Epoch: [14/15], Step: [901/1264], Training Loss: 0.564532995223999
+Epoch: [14/15], Step: [1001/1264], Validation Acc: 68.39892156620247
+Epoch: [14/15], Step: [1001/1264], Training Loss: 0.5891599059104919
+Epoch: [14/15], Step: [1101/1264], Validation Acc: 69.205273442331
+Epoch: [14/15], Step: [1101/1264], Training Loss: 0.5812622308731079
+Epoch: [14/15], Step: [1201/1264], Validation Acc: 69.21022038635633
+Epoch: [14/15], Step: [1201/1264], Training Loss: 0.5930878520011902
+test accuracy at epoch 14 is 68.72294639986148
+Epoch: [15/15], Step: [101/1264], Validation Acc: 68.76499542407677
+Epoch: [15/15], Step: [101/1264], Training Loss: 0.5734948515892029
+Epoch: [15/15], Step: [201/1264], Validation Acc: 69.45509411561008
+Epoch: [15/15], Step: [201/1264], Training Loss: 0.5832552909851074
+Epoch: [15/15], Step: [301/1264], Validation Acc: 69.2819510747236
+Epoch: [15/15], Step: [301/1264], Training Loss: 0.5735936760902405
+Epoch: [15/15], Step: [401/1264], Validation Acc: 68.77241584011477
+Epoch: [15/15], Step: [401/1264], Training Loss: 0.5444599390029907
+Epoch: [15/15], Step: [501/1264], Validation Acc: 68.07737020455613
+Epoch: [15/15], Step: [501/1264], Training Loss: 0.5689806342124939
+Epoch: [15/15], Step: [601/1264], Validation Acc: 68.47559919859506
+Epoch: [15/15], Step: [601/1264], Training Loss: 0.6202868819236755
+Epoch: [15/15], Step: [701/1264], Validation Acc: 68.59432585520295
+Epoch: [15/15], Step: [701/1264], Training Loss: 0.6008510589599609
+Epoch: [15/15], Step: [801/1264], Validation Acc: 68.69326473570952
+Epoch: [15/15], Step: [801/1264], Training Loss: 0.6268079280853271
+Epoch: [15/15], Step: [901/1264], Validation Acc: 67.66924732246655
+Epoch: [15/15], Step: [901/1264], Training Loss: 0.5959092974662781
+Epoch: [15/15], Step: [1001/1264], Validation Acc: 68.97276707314057
+Epoch: [15/15], Step: [1001/1264], Training Loss: 0.5871339440345764
+Epoch: [15/15], Step: [1101/1264], Validation Acc: 69.13848969798907
+Epoch: [15/15], Step: [1101/1264], Training Loss: 0.5779344439506531
+Epoch: [15/15], Step: [1201/1264], Validation Acc: 69.00244873729254
+Epoch: [15/15], Step: [1201/1264], Training Loss: 0.6094633340835571
+test accuracy at epoch 15 is 68.81446486433006
+Max Validation Accuracy: 69.45509411561008

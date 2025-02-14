@@ -1,0 +1,146 @@
+Processing model 1...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 276885 is out of bounds for axis 0 with size 40429
+Completed processing for model 1
+------------------------------
+Processing model 2...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 31, in main
+    train_embeddings = read_data(args.input_file_train)
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 10, in read_data
+    return np.load(filename).astype(np.float32)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/numpy/lib/npyio.py", line 456, in load
+    return format.read_array(fid, allow_pickle=allow_pickle,
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/numpy/lib/format.py", line 839, in read_array
+    array.shape = shape
+ValueError: cannot reshape array of size 26268144 into shape (323432,100)
+Completed processing for model 2
+------------------------------
+Processing model 3...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 260325 is out of bounds for axis 0 with size 40429
+Completed processing for model 3
+------------------------------
+Processing model 4...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 50275 is out of bounds for axis 0 with size 40429
+Completed processing for model 4
+------------------------------
+Processing model 5...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 154469 is out of bounds for axis 0 with size 40429
+Completed processing for model 5
+------------------------------
+Processing model 6...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 99780 is out of bounds for axis 0 with size 40429
+Completed processing for model 6
+------------------------------
+Processing model 7...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 107038 is out of bounds for axis 0 with size 40429
+Completed processing for model 7
+------------------------------
+Processing model 8...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 197259 is out of bounds for axis 0 with size 40429
+Completed processing for model 8
+------------------------------
+Processing model 9...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 152629 is out of bounds for axis 0 with size 40429
+Completed processing for model 9
+------------------------------
+Processing model 10...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 161382 is out of bounds for axis 0 with size 40429
+Completed processing for model 10
+------------------------------
+Processing model 11...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 276885 is out of bounds for axis 0 with size 40429
+Completed processing for model 11
+------------------------------
+Processing model 12...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 110110 is out of bounds for axis 0 with size 40429
+Completed processing for model 12
+------------------------------
+Processing model 13...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 171045 is out of bounds for axis 0 with size 40429
+Completed processing for model 13
+------------------------------
+Processing model 14...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 50275 is out of bounds for axis 0 with size 40429
+Completed processing for model 14
+------------------------------
+Processing model 15...
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 119, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/Neighbourhood quality/KNN_learning-opt3.py", line 68, in main
+    neighbor_labels = train_labels[neighbor_indices]
+IndexError: index 154469 is out of bounds for axis 0 with size 40429
+Completed processing for model 15
+------------------------------
+All models processed!
+ for model 15. Skipping cleanup.
+Completed processing for model 15
+------------------------------
+KNN_run_opt.sh: line 46: unexpected EOF while looking for matching `"'

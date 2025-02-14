@@ -1,0 +1,6 @@
+Successfully loaded data with 404290 rows
+Saved sample.csv with 1024 rows
+Split completed successfully:
+- Train set: 323432 rows (80.0%)
+- Validation set: 80858 rows (20.0%)
+Files saved in: ../datasets/qqp

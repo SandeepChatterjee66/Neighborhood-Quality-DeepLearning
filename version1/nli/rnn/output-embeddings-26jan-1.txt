@@ -1,0 +1,98 @@
+config.json loaded
+cuda:0
+999994
+Loading PCA transformed embeddings from embeddings300.pkl
+len of sen1 train sent2 train labels train 549367 549367 549367
+{10, 12, 13, 14} 0
+Size of training data: 549367
+A person on a horse jumps over a broken down airplane.
+A person is outdoors, on a horse.
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating train_loader.
+{13, 14}
+Size of val data: 9842
+Two women are embracing while holding to go packages.
+The men are fighting outside a deli.
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+{13, 14}
+This church choir sings to the masses as they sing joyous songs from the book at a church.
+A choir singing at a baseball game.
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/rnn/embedgen-rnn-nli.py:480: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load(model_path))
+
+Train Embeddings 1
+1 total time taken is 5935.400128602982
+
+Train Embeddings 2
+2 total time taken is 5898.5984880924225
+
+Train Embeddings 3
+3 total time taken is 5825.3212077617645
+
+Train Embeddings 4
+4 total time taken is 5628.039893865585
+
+Train Embeddings 5
+5 total time taken is 5630.313467979431
+
+Train Embeddings 6
+6 total time taken is 5603.850010633469
+
+Train Embeddings 7
+7 total time taken is 5618.814026117325
+
+Train Embeddings 8
+8 total time taken is 5623.009671211243
+
+Train Embeddings 9
+9 total time taken is 5637.9316692352295
+
+Train Embeddings 10
+10 total time taken is 5607.045287847519
+/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/rnn/embedgen-rnn-nli.py:517: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model_test.load_state_dict(torch.load(best_model_path))
+accuracy is 78.61359934853421
+32
+tensor([0, 2, 0, 1, 2, 1, 0, 2, 1, 2], device='cuda:0')
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/rnn/embedgen-rnn-nli.py", line 525, in <module>
+    flat_list = [item for sublist in nested_list for item in sublist]
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/rnn/embedgen-rnn-nli.py", line 525, in <listcomp>
+    flat_list = [item for sublist in nested_list for item in sublist]
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/_tensor.py", line 1109, in __iter__
+    raise TypeError("iteration over a 0-d tensor")
+TypeError: iteration over a 0-d tensor

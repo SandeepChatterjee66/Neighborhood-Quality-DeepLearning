@@ -1,0 +1,6 @@
+k=5	Accuracy: 0.6708
+k=10	Accuracy: 0.7038
+k=20	Accuracy: 0.7194
+k=50	Accuracy: 0.7185
+k=75	Accuracy: 0.7151
+k=100	Accuracy: 0.7116

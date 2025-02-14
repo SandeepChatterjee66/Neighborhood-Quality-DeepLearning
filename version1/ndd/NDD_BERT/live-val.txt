@@ -1,0 +1,1651 @@
+
+ epoch 101	val Loss at 100 steps : 37.996486365795135
+	val Accuracy : 0.8241800742574258
+
+ epoch 201	val Loss at 200 steps : 74.71631823480129
+	val Accuracy : 0.8269200870646766
+
+ epoch 301	val Loss at 300 steps : 112.88037483394146
+	val Accuracy : 0.8243355481727574
+
+ epoch 401	val Loss at 400 steps : 150.41838043928146
+	val Accuracy : 0.8240921134663342
+
+ epoch 501	val Loss at 500 steps : 187.13091804087162
+	val Accuracy : 0.8253181137724551
+
+ epoch 601	val Loss at 600 steps : 225.1017314940691
+	val Accuracy : 0.8243422420965059
+
+
+ epoch 1	Validation Loss : 236.86357475817204
+	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+
+ epoch 101	val Loss at 100 steps : 36.41770777106285
+	val Accuracy : 0.8369430693069307
+
+ epoch 201	val Loss at 200 steps : 71.54090189933777
+	val Accuracy : 0.8394745024875622
+
+ epoch 301	val Loss at 300 steps : 108.19662761688232
+	val Accuracy : 0.8381436877076412
+
+ epoch 401	val Loss at 400 steps : 144.08235916495323
+	val Accuracy : 0.8384897132169576
+
+ epoch 501	val Loss at 500 steps : 179.32894991338253
+	val Accuracy : 0.8389782934131736
+
+ epoch 601	val Loss at 600 steps : 215.96070016920567
+	val Accuracy : 0.8380693635607321
+
+ epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+
+ epoch 101	val Loss at 100 steps : 35.25909020006657
+	val Accuracy : 0.8449876237623762
+
+ epoch 201	val Loss at 200 steps : 69.28508487343788
+	val Accuracy : 0.8486473880597015
+
+ epoch 301	val Loss at 300 steps : 105.1218973249197
+	val Accuracy : 0.8459821428571429
+
+ epoch 401	val Loss at 400 steps : 140.00407561659813
+	val Accuracy : 0.8466528990024937
+
+ epoch 501	val Loss at 500 steps : 174.23774734139442
+	val Accuracy : 0.8476172654690619
+
+ epoch 601	val Loss at 600 steps : 209.91242744028568
+	val Accuracy : 0.8471167845257903
+
+
+ epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+
+ epoch 101	val Loss at 100 steps : 36.59811618924141
+	val Accuracy : 0.8450649752475248
+
+ epoch 201	val Loss at 200 steps : 72.14051036536694
+	val Accuracy : 0.8470537935323383
+
+ epoch 301	val Loss at 300 steps : 109.5051318705082
+	val Accuracy : 0.8451256229235881
+
+ epoch 401	val Loss at 400 steps : 146.15609367191792
+	val Accuracy : 0.8455229114713217
+
+ epoch 501	val Loss at 500 steps : 182.085211917758
+	val Accuracy : 0.8467596057884231
+
+ epoch 601	val Loss at 600 steps : 219.48165373504162
+	val Accuracy : 0.8462848377703827
+
+
+ epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+
+ epoch 101	val Loss at 100 steps : 35.81797048449516
+	val Accuracy : 0.8551980198019802
+
+ epoch 201	val Loss at 200 steps : 70.58935943245888
+	val Accuracy : 0.8565376243781094
+
+ epoch 301	val Loss at 300 steps : 107.25055094063282
+	val Accuracy : 0.8539763289036545
+
+ epoch 401	val Loss at 400 steps : 143.09718449413776
+	val Accuracy : 0.8545628117206983
+
+ epoch 501	val Loss at 500 steps : 178.18376849591732
+	val Accuracy : 0.8553050149700598
+
+ epoch 601	val Loss at 600 steps : 215.0468474328518
+	val Accuracy : 0.8547472961730449
+
+
+ epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+
+ epoch 101	val Loss at 100 steps : 37.7705879509449
+	val Accuracy : 0.8578279702970297
+
+ epoch 201	val Loss at 200 steps : 74.19203156232834
+	val Accuracy : 0.8592195273631841
+
+ epoch 301	val Loss at 300 steps : 112.2323306798935
+	val Accuracy : 0.8568054401993356
+
+ epoch 401	val Loss at 400 steps : 150.05396319925785
+	val Accuracy : 0.856900716957606
+
+ epoch 501	val Loss at 500 steps : 186.82821516692638
+	val Accuracy : 0.857815618762475
+
+ epoch 601	val Loss at 600 steps : 225.0321137458086
+	val Accuracy : 0.857035149750416
+
+
+ epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+
+ epoch 101	val Loss at 100 steps : 40.47214959561825
+	val Accuracy : 0.8565903465346535
+
+ epoch 201	val Loss at 200 steps : 79.54128283262253
+	val Accuracy : 0.8583644278606966
+
+ epoch 301	val Loss at 300 steps : 120.70845344662666
+	val Accuracy : 0.8564420681063123
+
+ epoch 401	val Loss at 400 steps : 161.45931361615658
+	val Accuracy : 0.8561798628428927
+
+ epoch 501	val Loss at 500 steps : 200.59662444889545
+	val Accuracy : 0.8569111776447106
+
+ epoch 601	val Loss at 600 steps : 241.7167892307043
+	val Accuracy : 0.8565931780366056
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+
+ epoch 101	val Loss at 100 steps : 41.756952315568924
+	val Accuracy : 0.8633199257425742
+
+ epoch 201	val Loss at 200 steps : 81.73466581106186
+	val Accuracy : 0.8653995646766169
+
+ epoch 301	val Loss at 300 steps : 123.75882196426392
+	val Accuracy : 0.862359842192691
+
+ epoch 401	val Loss at 400 steps : 165.63362555205822
+	val Accuracy : 0.8624922069825436
+
+ epoch 501	val Loss at 500 steps : 206.4174746274948
+	val Accuracy : 0.8629771706586826
+
+ epoch 601	val Loss at 600 steps : 248.58018572628498
+	val Accuracy : 0.8624818011647255
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+
+ epoch 101	val Loss at 100 steps : 42.57755430042744
+	val Accuracy : 0.866878094059406
+
+ epoch 201	val Loss at 200 steps : 83.1573527008295
+	val Accuracy : 0.8680814676616916
+
+ epoch 301	val Loss at 300 steps : 126.19764740765095
+	val Accuracy : 0.8666424418604651
+
+ epoch 401	val Loss at 400 steps : 168.55381275713444
+	val Accuracy : 0.8668562967581047
+
+ epoch 501	val Loss at 500 steps : 209.96727113425732
+	val Accuracy : 0.8673590319361277
+
+ epoch 601	val Loss at 600 steps : 253.20186695456505
+	val Accuracy : 0.8667455282861897
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+
+ epoch 101	val Loss at 100 steps : 47.39543038606644
+	val Accuracy : 0.8599938118811881
+
+ epoch 201	val Loss at 200 steps : 93.38948383927345
+	val Accuracy : 0.8615516169154229
+
+ epoch 301	val Loss at 300 steps : 141.21716897189617
+	val Accuracy : 0.8594009551495017
+
+ epoch 401	val Loss at 400 steps : 188.9132158458233
+	val Accuracy : 0.8599010286783042
+
+ epoch 501	val Loss at 500 steps : 235.9096137881279
+	val Accuracy : 0.8601702844311377
+
+ epoch 601	val Loss at 600 steps : 284.1569929867983
+	val Accuracy : 0.8596219841930116
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+
+ epoch 101	val Loss at 100 steps : 47.55851721763611
+	val Accuracy : 0.8658725247524752
+
+ epoch 201	val Loss at 200 steps : 93.97544772922993
+	val Accuracy : 0.8659437189054726
+
+ epoch 301	val Loss at 300 steps : 142.55878452956676
+	val Accuracy : 0.8632163621262459
+
+ epoch 401	val Loss at 400 steps : 189.80180387198925
+	val Accuracy : 0.8631156483790524
+
+ epoch 501	val Loss at 500 steps : 236.18888494372368
+	val Accuracy : 0.8632422654690619
+
+ epoch 601	val Loss at 600 steps : 285.48827612400055
+	val Accuracy : 0.8625207986688852
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+
+ epoch 101	val Loss at 100 steps : 47.397142216563225
+	val Accuracy : 0.8706683168316832
+
+ epoch 201	val Loss at 200 steps : 93.4502190798521
+	val Accuracy : 0.8698305348258707
+
+ epoch 301	val Loss at 300 steps : 141.35408049821854
+	val Accuracy : 0.868329526578073
+
+ epoch 401	val Loss at 400 steps : 189.18712866306305
+	val Accuracy : 0.8685707605985037
+
+ epoch 501	val Loss at 500 steps : 235.00276391208172
+	val Accuracy : 0.868559755489022
+
+ epoch 601	val Loss at 600 steps : 283.4150494784117
+	val Accuracy : 0.8679154534109818
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+
+ epoch 101	val Loss at 100 steps : 51.6998340934515
+	val Accuracy : 0.8715191831683168
+
+ epoch 201	val Loss at 200 steps : 101.94772584736347
+	val Accuracy : 0.8716184701492538
+
+ epoch 301	val Loss at 300 steps : 154.42831875383854
+	val Accuracy : 0.8705097591362126
+
+ epoch 401	val Loss at 400 steps : 206.20157606899738
+	val Accuracy : 0.8702657418952618
+
+ epoch 501	val Loss at 500 steps : 256.52045580744743
+	val Accuracy : 0.8706181387225549
+
+ epoch 601	val Loss at 600 steps : 308.71736362576485
+	val Accuracy : 0.8695533485856906
+
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+
+ epoch 101	val Loss at 100 steps : 53.602167665958405
+	val Accuracy : 0.8777846534653465
+
+ epoch 201	val Loss at 200 steps : 105.45239761471748
+	val Accuracy : 0.8772154850746269
+
+ epoch 301	val Loss at 300 steps : 159.8286036849022
+	val Accuracy : 0.8750519102990033
+
+ epoch 401	val Loss at 400 steps : 214.19715535640717
+	val Accuracy : 0.8752922381546134
+
+ epoch 501	val Loss at 500 steps : 266.3445330709219
+	val Accuracy : 0.875748502994012
+
+ epoch 601	val Loss at 600 steps : 320.7217835634947
+	val Accuracy : 0.8752079866888519
+
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+
+ epoch 101	val Loss at 100 steps : 53.25486618280411
+	val Accuracy : 0.8758508663366337
+
+ epoch 201	val Loss at 200 steps : 104.25795929133892
+	val Accuracy : 0.8757384950248757
+
+ epoch 301	val Loss at 300 steps : 157.67993180453777
+	val Accuracy : 0.8745068521594684
+
+ epoch 401	val Loss at 400 steps : 211.59049193561077
+	val Accuracy : 0.8750584476309227
+
+ epoch 501	val Loss at 500 steps : 263.1659238189459
+	val Accuracy : 0.8757796906187625
+
+ epoch 601	val Loss at 600 steps : 316.561233446002
+	val Accuracy : 0.8758319467554077
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+
+ epoch 101	val Loss at 100 steps : 54.491922095417976
+	val Accuracy : 0.8739944306930693
+
+ epoch 201	val Loss at 200 steps : 106.16804377734661
+	val Accuracy : 0.8746113184079602
+
+ epoch 301	val Loss at 300 steps : 160.6535328924656
+	val Accuracy : 0.8737541528239202
+
+ epoch 401	val Loss at 400 steps : 215.54169629514217
+	val Accuracy : 0.8741817331670823
+
+ epoch 501	val Loss at 500 steps : 267.6853566169739
+	val Accuracy : 0.874750499001996
+
+ epoch 601	val Loss at 600 steps : 322.1747737824917
+	val Accuracy : 0.8747140183028286
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+
+ epoch 101	val Loss at 100 steps : 57.45261198282242
+	val Accuracy : 0.874690594059406
+
+ epoch 201	val Loss at 200 steps : 111.19508181512356
+	val Accuracy : 0.8751554726368159
+
+ epoch 301	val Loss at 300 steps : 168.34630255401134
+	val Accuracy : 0.8739098837209303
+
+ epoch 401	val Loss at 400 steps : 224.81640200316906
+	val Accuracy : 0.8745324189526185
+
+ epoch 501	val Loss at 500 steps : 280.10495868325233
+	val Accuracy : 0.8753274700598802
+
+ epoch 601	val Loss at 600 steps : 337.41123405098915
+	val Accuracy : 0.8748310108153078
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+
+ epoch 101	val Loss at 100 steps : 59.80909785628319
+	val Accuracy : 0.8756188118811881
+
+ epoch 201	val Loss at 200 steps : 116.48403885960579
+	val Accuracy : 0.8753109452736318
+
+ epoch 301	val Loss at 300 steps : 175.91297003626823
+	val Accuracy : 0.8742732558139535
+
+ epoch 401	val Loss at 400 steps : 236.32406002283096
+	val Accuracy : 0.8741622506234414
+
+ epoch 501	val Loss at 500 steps : 293.5500193759799
+	val Accuracy : 0.8752806886227545
+
+ epoch 601	val Loss at 600 steps : 353.24625100940466
+	val Accuracy : 0.8747270174708819
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+
+ epoch 101	val Loss at 100 steps : 60.306358844041824
+	val Accuracy : 0.8738397277227723
+
+ epoch 201	val Loss at 200 steps : 118.20118871331215
+	val Accuracy : 0.8732509328358209
+
+ epoch 301	val Loss at 300 steps : 177.66614778339863
+	val Accuracy : 0.8730274086378738
+
+ epoch 401	val Loss at 400 steps : 236.34548197686672
+	val Accuracy : 0.8739089775561097
+
+ epoch 501	val Loss at 500 steps : 293.09763848781586
+	val Accuracy : 0.8750155938123753
+
+ epoch 601	val Loss at 600 steps : 353.13581132888794
+	val Accuracy : 0.8746100249584027
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+
+ epoch 101	val Loss at 100 steps : 61.76029512286186
+	val Accuracy : 0.8767790841584159
+
+ epoch 201	val Loss at 200 steps : 119.72796726226807
+	val Accuracy : 0.8766713308457711
+
+ epoch 301	val Loss at 300 steps : 180.40586030483246
+	val Accuracy : 0.8749740448504983
+
+ epoch 401	val Loss at 400 steps : 241.08836925029755
+	val Accuracy : 0.8756429239401496
+
+ epoch 501	val Loss at 500 steps : 300.0562787428498
+	val Accuracy : 0.8765437874251497
+
+ epoch 601	val Loss at 600 steps : 361.86019725352526
+	val Accuracy : 0.8761179284525791
+
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+
+ epoch 101	val Loss at 100 steps : 62.85203064978123
+	val Accuracy : 0.8774752475247525
+
+ epoch 201	val Loss at 200 steps : 121.71472798287868
+	val Accuracy : 0.8774875621890548
+
+ epoch 301	val Loss at 300 steps : 183.30285939574242
+	val Accuracy : 0.8762718023255814
+
+ epoch 401	val Loss at 400 steps : 244.7142017185688
+	val Accuracy : 0.8765391209476309
+
+ epoch 501	val Loss at 500 steps : 304.34406627714634
+	val Accuracy : 0.8769024451097804
+
+ epoch 601	val Loss at 600 steps : 367.5509821921587
+	val Accuracy : 0.876273918469218
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+ epoch 21	Validation Loss : 386.50361020863056
+	Validation accuracy for epoch 21: 0.8763009845288325
+	test accuracy: 0.9682681242807826
+
+ epoch 101	val Loss at 100 steps : 62.873755514621735
+	val Accuracy : 0.8770111386138614
+
+ epoch 201	val Loss at 200 steps : 122.63408108055592
+	val Accuracy : 0.8764381218905473
+
+ epoch 301	val Loss at 300 steps : 184.38068525493145
+	val Accuracy : 0.8754931478405316
+
+ epoch 401	val Loss at 400 steps : 246.18085922300816
+	val Accuracy : 0.8754480985037406
+
+ epoch 501	val Loss at 500 steps : 306.6937699466944
+	val Accuracy : 0.875748502994012
+
+ epoch 601	val Loss at 600 steps : 368.9794018417597
+	val Accuracy : 0.8755719633943427
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+ epoch 21	Validation Loss : 386.50361020863056
+	Validation accuracy for epoch 21: 0.8763009845288325
+	test accuracy: 0.9682681242807826
+ epoch 22	Validation Loss : 387.87201626598835
+	Validation accuracy for epoch 22: 0.8753810104606189
+	test accuracy: 0.9676828610471807
+
+ epoch 101	val Loss at 100 steps : 66.72384098172188
+	val Accuracy : 0.8763149752475248
+
+ epoch 201	val Loss at 200 steps : 129.1173400580883
+	val Accuracy : 0.8767101990049752
+
+ epoch 301	val Loss at 300 steps : 192.73939698934555
+	val Accuracy : 0.8761679817275747
+
+ epoch 401	val Loss at 400 steps : 256.5269747376442
+	val Accuracy : 0.8776106608478803
+
+ epoch 501	val Loss at 500 steps : 318.7669789791107
+	val Accuracy : 0.8780563872255489
+
+ epoch 601	val Loss at 600 steps : 383.5247773230076
+	val Accuracy : 0.8774178452579035
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+ epoch 21	Validation Loss : 386.50361020863056
+	Validation accuracy for epoch 21: 0.8763009845288325
+	test accuracy: 0.9682681242807826
+ epoch 22	Validation Loss : 387.87201626598835
+	Validation accuracy for epoch 22: 0.8753810104606189
+	test accuracy: 0.9676828610471807
+ epoch 23	Validation Loss : 403.3730533719063
+	Validation accuracy for epoch 23: 0.8771539315225034
+	test accuracy: 0.968494677790564
+
+ epoch 101	val Loss at 100 steps : 67.30510126054287
+	val Accuracy : 0.8763923267326733
+
+ epoch 201	val Loss at 200 steps : 131.11254404485226
+	val Accuracy : 0.877021144278607
+
+ epoch 301	val Loss at 300 steps : 197.3182623833418
+	val Accuracy : 0.8760122508305648
+
+ epoch 401	val Loss at 400 steps : 263.46852077543736
+	val Accuracy : 0.8769287718204489
+
+ epoch 501	val Loss at 500 steps : 327.6192302554846
+	val Accuracy : 0.8774326347305389
+
+ epoch 601	val Loss at 600 steps : 395.1326211243868
+	val Accuracy : 0.8773918469217971
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+ epoch 21	Validation Loss : 386.50361020863056
+	Validation accuracy for epoch 21: 0.8763009845288325
+	test accuracy: 0.9682681242807826
+ epoch 22	Validation Loss : 387.87201626598835
+	Validation accuracy for epoch 22: 0.8753810104606189
+	test accuracy: 0.9676828610471807
+ epoch 23	Validation Loss : 403.3730533719063
+	Validation accuracy for epoch 23: 0.8771539315225034
+	test accuracy: 0.968494677790564
+ epoch 24	Validation Loss : 415.6957986205816
+	Validation accuracy for epoch 24: 0.8771187697784809
+	test accuracy: 0.968074385069045
+
+ epoch 101	val Loss at 100 steps : 64.24047963321209
+	val Accuracy : 0.8779393564356436
+
+ epoch 201	val Loss at 200 steps : 125.80072711408138
+	val Accuracy : 0.877021144278607
+
+ epoch 301	val Loss at 300 steps : 189.1909598261118
+	val Accuracy : 0.8755969684385382
+
+ epoch 401	val Loss at 400 steps : 253.00893752276897
+	val Accuracy : 0.8762274002493765
+
+ epoch 501	val Loss at 500 steps : 315.47696028649807
+	val Accuracy : 0.8764034431137725
+
+ epoch 601	val Loss at 600 steps : 379.0489637106657
+	val Accuracy : 0.8765209026622296
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+ epoch 21	Validation Loss : 386.50361020863056
+	Validation accuracy for epoch 21: 0.8763009845288325
+	test accuracy: 0.9682681242807826
+ epoch 22	Validation Loss : 387.87201626598835
+	Validation accuracy for epoch 22: 0.8753810104606189
+	test accuracy: 0.9676828610471807
+ epoch 23	Validation Loss : 403.3730533719063
+	Validation accuracy for epoch 23: 0.8771539315225034
+	test accuracy: 0.968494677790564
+ epoch 24	Validation Loss : 415.6957986205816
+	Validation accuracy for epoch 24: 0.8771187697784809
+	test accuracy: 0.968074385069045
+ epoch 25	Validation Loss : 399.25865311920643
+	Validation accuracy for epoch 25: 0.8764441038150492
+	test accuracy: 0.9681980005753741
+
+ epoch 101	val Loss at 100 steps : 67.66561636328697
+	val Accuracy : 0.8788675742574258
+
+ epoch 201	val Loss at 200 steps : 131.45208376646042
+	val Accuracy : 0.8805192786069652
+
+ epoch 301	val Loss at 300 steps : 198.6196544468403
+	val Accuracy : 0.8795681063122923
+
+ epoch 401	val Loss at 400 steps : 266.4965523481369
+	val Accuracy : 0.8795199501246883
+
+ epoch 501	val Loss at 500 steps : 331.63801270723343
+	val Accuracy : 0.8796781437125748
+
+ epoch 601	val Loss at 600 steps : 398.36756932735443
+	val Accuracy : 0.8794327163061564
+
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+ epoch 21	Validation Loss : 386.50361020863056
+	Validation accuracy for epoch 21: 0.8763009845288325
+	test accuracy: 0.9682681242807826
+ epoch 22	Validation Loss : 387.87201626598835
+	Validation accuracy for epoch 22: 0.8753810104606189
+	test accuracy: 0.9676828610471807
+ epoch 23	Validation Loss : 403.3730533719063
+	Validation accuracy for epoch 23: 0.8771539315225034
+	test accuracy: 0.968494677790564
+ epoch 24	Validation Loss : 415.6957986205816
+	Validation accuracy for epoch 24: 0.8771187697784809
+	test accuracy: 0.968074385069045
+ epoch 25	Validation Loss : 399.25865311920643
+	Validation accuracy for epoch 25: 0.8764441038150492
+	test accuracy: 0.9681980005753741
+ epoch 26	Validation Loss : 419.4543108046055
+	Validation accuracy for epoch 26: 0.8791636449542898
+	test accuracy: 0.9699780638665133
+
+ epoch 101	val Loss at 100 steps : 68.71065025031567
+	val Accuracy : 0.8756961633663366
+
+ epoch 201	val Loss at 200 steps : 135.7194336205721
+	val Accuracy : 0.8742226368159204
+
+ epoch 301	val Loss at 300 steps : 203.39075200259686
+	val Accuracy : 0.8737022425249169
+
+ epoch 401	val Loss at 400 steps : 271.68433217704296
+	val Accuracy : 0.8736362219451371
+
+ epoch 501	val Loss at 500 steps : 337.3811437636614
+	val Accuracy : 0.8743294660678643
+
+ epoch 601	val Loss at 600 steps : 406.22733421623707
+	val Accuracy : 0.873830074875208
+
+
+epoch1	Validation accuracy for epoch 1: 0.8242203982067511
+	test accuracy: 0.8324119857594937
+ epoch 2	Validation Loss : 227.2591078132391
+	Validation accuracy for epoch 2: 0.8382878428270042
+	test accuracy: 0.8572910673187571
+ epoch 3	Validation Loss : 220.97264927625656
+	Validation accuracy for epoch 3: 0.8471367901722926
+	test accuracy: 0.8758949762658227
+ epoch 4	Validation Loss : 231.00648002326488
+	Validation accuracy for epoch 4: 0.8464464662447257
+	test accuracy: 0.8872716484464903
+ epoch 5	Validation Loss : 226.35095043480396
+	Validation accuracy for epoch 5: 0.8548009515646976
+	test accuracy: 0.9057398050920599
+ epoch 6	Validation Loss : 236.8597025424242
+	Validation accuracy for epoch 6: 0.8570051533931082
+	test accuracy: 0.9157360292002302
+ epoch 7	Validation Loss : 254.47671599686146
+	Validation accuracy for epoch 7: 0.8565387108825598
+	test accuracy: 0.922312374136939
+ epoch 8	Validation Loss : 261.39259888231754
+	Validation accuracy for epoch 8: 0.8625815862341771
+	test accuracy: 0.9341587852416571
+ epoch 9	Validation Loss : 266.33672484755516
+	Validation accuracy for epoch 9: 0.8666784788150492
+	test accuracy: 0.9438542865362486
+ epoch 10	Validation Loss : 298.99783043563366
+	Validation accuracy for epoch 10: 0.859754636954993
+	test accuracy: 0.9397790204257767
+ epoch 11	Validation Loss : 300.184186398983
+	Validation accuracy for epoch 11: 0.8625835091420535
+	test accuracy: 0.9453911644131184
+ epoch 12	Validation Loss : 298.13279190659523
+	Validation accuracy for epoch 12: 0.8679464992088607
+	test accuracy: 0.9547158191887226
+ epoch 13	Validation Loss : 324.853443980217
+	Validation accuracy for epoch 13: 0.869551577883263
+	test accuracy: 0.9564711593785961
+ epoch 14	Validation Loss : 337.88104589283466
+	Validation accuracy for epoch 14: 0.8748494637834037
+	test accuracy: 0.9615393951380897
+ epoch 15	Validation Loss : 333.22834070026875
+	Validation accuracy for epoch 15: 0.8757993802742616
+	test accuracy: 0.9637150280494821
+ epoch 16	Validation Loss : 338.65330228209496
+	Validation accuracy for epoch 16: 0.8748527601969057
+	test accuracy: 0.9635172432393555
+ epoch 17	Validation Loss : 354.39740723371506
+	Validation accuracy for epoch 17: 0.8747557906997186
+	test accuracy: 0.963323504027618
+ epoch 18	Validation Loss : 371.38824444264174
+	Validation accuracy for epoch 18: 0.8747115638185654
+	test accuracy: 0.9653260752301497
+ epoch 19	Validation Loss : 371.87867376208305
+	Validation accuracy for epoch 19: 0.8743706597222222
+	test accuracy: 0.9651035673187572
+ epoch 20	Validation Loss : 380.9726858511567
+	Validation accuracy for epoch 20: 0.8759353573312237
+	test accuracy: 0.9675799230437285
+ epoch 21	Validation Loss : 386.50361020863056
+	Validation accuracy for epoch 21: 0.8763009845288325
+	test accuracy: 0.9682681242807826
+ epoch 22	Validation Loss : 387.87201626598835
+	Validation accuracy for epoch 22: 0.8753810104606189
+	test accuracy: 0.9676828610471807
+ epoch 23	Validation Loss : 403.3730533719063
+	Validation accuracy for epoch 23: 0.8771539315225034
+	test accuracy: 0.968494677790564
+ epoch 24	Validation Loss : 415.6957986205816
+	Validation accuracy for epoch 24: 0.8771187697784809
+	test accuracy: 0.968074385069045
+ epoch 25	Validation Loss : 399.25865311920643
+	Validation accuracy for epoch 25: 0.8764441038150492
+	test accuracy: 0.9681980005753741
+ epoch 26	Validation Loss : 419.4543108046055
+	Validation accuracy for epoch 26: 0.8791636449542898
+	test accuracy: 0.9699780638665133
+ epoch 27	Validation Loss : 427.5151293128729
+	Validation accuracy for epoch 27: 0.8736256702707454
+	test accuracy: 0.9676293692462601

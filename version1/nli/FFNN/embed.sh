@@ -1,0 +1,1 @@
+nohup python3 -u gen_embed.py > output-embed-jan26-2.txt &

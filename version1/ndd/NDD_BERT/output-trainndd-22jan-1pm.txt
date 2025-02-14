@@ -1,0 +1,116 @@
+/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT
+Some weights of MainModel were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12.1
+Training model :
+Apa panduan langkah demi langkah untuk berinvestasi di pasar saham di India?
+404290
+Apa panduan langkah demi langkah untuk berinvestasi di pasar saham?
+404290
+data length 404290
+ Mengapa orang Afrika-Amerika begitu cantik?
+40430
+ Mengapa orang hispanik begitu cantik?
+40430
+train, val, test datasize 262789 20214 40430
+Epoch 1:
+	Train loss at 0 steps: 0.7174547910690308
+	Train loss at 100 steps: 55.49665346741676
+	Train Accuracy : 0.686633663366337
+	Train loss at 200 steps: 105.05735340714455
+	Train Accuracy : 0.71407960199005
+	Train loss at 300 steps: 151.75580403208733
+	Train Accuracy : 0.7286046511627908
+	Train loss at 400 steps: 198.0813106894493
+	Train Accuracy : 0.7383291770573567
+	Train loss at 500 steps: 242.6120018362999
+	Train Accuracy : 0.7464271457085826
+	Train loss at 600 steps: 287.47955015301704
+	Train Accuracy : 0.7513311148086521
+	Train loss at 700 steps: 329.6771527528763
+	Train Accuracy : 0.7568188302425102
+	Train loss at 800 steps: 372.5823635160923
+	Train Accuracy : 0.7609113607989998
+	Train loss at 900 steps: 414.4987200796604
+	Train Accuracy : 0.7649167591564909
+	Train loss at 1000 steps: 455.6718162894249
+	Train Accuracy : 0.7683316683316662
+	Train loss at 1100 steps: 497.30267199873924
+	Train Accuracy : 0.770917347865575
+	Train loss at 1200 steps: 537.7895467877388
+	Train Accuracy : 0.7736885928392987
+	Train loss at 1300 steps: 577.8707647621632
+	Train Accuracy : 0.7763105303612585
+	Train loss at 1400 steps: 618.8175512254238
+	Train Accuracy : 0.778308351177726
+	Train loss at 1500 steps: 658.6897863149643
+	Train Accuracy : 0.7802731512325047
+	Train loss at 1600 steps: 696.799796462059
+	Train Accuracy : 0.7826233603997407
+	Train loss at 1700 steps: 735.1322275996208
+	Train Accuracy : 0.7845914168136271
+	Train loss at 1800 steps: 774.424007922411
+	Train Accuracy : 0.7861854525263607
+	Train loss at 1900 steps: 813.9300085306168
+	Train Accuracy : 0.7876854287217103
+	Train loss at 2000 steps: 851.9580590128899
+	Train Accuracy : 0.789335332333816
+	Train loss at 2100 steps: 890.5629708170891
+	Train Accuracy : 0.7905045216563361
+	Train loss at 2200 steps: 929.3584072887897
+	Train Accuracy : 0.7917355747387355
+	Train loss at 2300 steps: 967.2117839157581
+	Train Accuracy : 0.7931942633637342
+	Train loss at 2400 steps: 1005.2819616794586
+	Train Accuracy : 0.7943856726363796
+	Train loss at 2500 steps: 1042.9716735184193
+	Train Accuracy : 0.7956817273090532
+	Train loss at 2600 steps: 1080.0281063467264
+	Train Accuracy : 0.7967358708188931
+	Train loss for the epoch: 1090.121809616685
+	Training accuracy for epoch: 0.7970058830571155
+	val loss at 0 steps: 0.37385958433151245
+Traceback (most recent call last):
+  File "/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT/train.py", line 325, in <module>
+    main()
+  File "/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT/train.py", line 271, in main
+    validation_loss, eval_acc = valid(model, eval_dataloader, device)
+  File "/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT/train.py", line 135, in valid
+    loss_main, main_prob = model(input_ids=input_ids, attention_mask=mask, token_type_ids = token_type_ids, labels=targets,device = device)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT/train.py", line 55, in forward
+    output = self.bert(input_ids, attention_mask=attention_mask, token_type_ids=token_type_ids)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 1142, in forward
+    encoder_outputs = self.encoder(
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 695, in forward
+    layer_outputs = layer_module(
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 585, in forward
+    self_attention_outputs = self.attention(
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 515, in forward
+    self_outputs = self.self(
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 440, in forward
+    attn_output = torch.nn.functional.scaled_dot_product_attention(
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 150.00 MiB. GPU 0 has a total capacity of 79.35 GiB of which 102.19 MiB is free. Process 664168 has 9.19 GiB memory in use. Process 668675 has 24.25 GiB memory in use. Process 679606 has 9.32 GiB memory in use. Process 3294367 has 36.49 GiB memory in use. Of the allocated memory 33.39 GiB is allocated by PyTorch, and 2.60 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

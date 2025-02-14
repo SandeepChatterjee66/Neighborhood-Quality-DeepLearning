@@ -1,0 +1,138 @@
+/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/BERT
+Some weights of MainModel were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'hidden.bias', 'hidden.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Training model :
+549367
+SNLI train length : 549367
+9842
+Validation dataset length : 9842
+Epoch 1:
+	Model loss at 0 steps: 1.0980944633483887
+	Model loss at 100 steps: 105.23813623189926
+	Model Accuracy : 0.5662902227722773
+	Model loss at 200 steps: 196.59275805950165
+	Model Accuracy : 0.6457167288557214
+	Model loss at 300 steps: 282.09613329172134
+	Model Accuracy : 0.6860724667774086
+	Model loss at 400 steps: 363.91409105062485
+	Model Accuracy : 0.7092620012468828
+	Model loss at 500 steps: 442.86079889535904
+	Model Accuracy : 0.7234593313373253
+	Model loss at 600 steps: 518.6890803575516
+	Model Accuracy : 0.7334910565723793
+	Model loss at 700 steps: 590.8984787464142
+	Model Accuracy : 0.7427001604850214
+	Model loss at 800 steps: 660.3739808797836
+	Model Accuracy : 0.7497073970037453
+	Model loss at 900 steps: 726.8077108860016
+	Model Accuracy : 0.7557488207547169
+	Model loss at 1000 steps: 790.2488480210304
+	Model Accuracy : 0.7616914335664335
+	Model loss at 1100 steps: 852.2231352627277
+	Model Accuracy : 0.7659017370572208
+	Model loss at 1200 steps: 912.0642102956772
+	Model Accuracy : 0.7698337323064113
+	Model loss at 1300 steps: 969.7540952861309
+	Model Accuracy : 0.7733834550345888
+	Model loss at 1400 steps: 1025.1341507732868
+	Model Accuracy : 0.7768000535331906
+	Model loss at 1500 steps: 1078.2612165808678
+	Model Accuracy : 0.7803027148567622
+	Model loss at 1600 steps: 1130.0667137503624
+	Model Accuracy : 0.7834312539038101
+	Model loss at 1700 steps: 1180.146181255579
+	Model Accuracy : 0.786522633744856
+	Model loss at 1800 steps: 1229.2888665795326
+	Model Accuracy : 0.7892533661854525
+	Model loss at 1900 steps: 1277.5078037977219
+	Model Accuracy : 0.791742010783798
+	Model loss at 2000 steps: 1325.568327009678
+	Model Accuracy : 0.7937515617191404
+	Model loss at 2100 steps: 1372.4138064980507
+	Model Accuracy : 0.7957185566396954
+	Model loss at 2200 steps: 1419.0457771122456
+	Model Accuracy : 0.7974606712857792
+	Model loss at 2300 steps: 1464.7214592695236
+	Model Accuracy : 0.7990377824858758
+	Model loss at 2400 steps: 1509.5040107369423
+	Model Accuracy : 0.8008121615993337
+	Model loss at 2500 steps: 1552.8275114297867
+	Model Accuracy : 0.8026914234306277
+	Model loss at 2600 steps: 1597.2875669300556
+	Model Accuracy : 0.8040627402921953
+	Model loss at 2700 steps: 1640.5227833092213
+	Model Accuracy : 0.8055581266197704
+	Model loss at 2800 steps: 1683.2022031247616
+	Model Accuracy : 0.807077829346662
+	Model loss at 2900 steps: 1724.410849571228
+	Model Accuracy : 0.8087028179937953
+	Model loss at 3000 steps: 1766.378588706255
+	Model Accuracy : 0.8098888912029324
+	Model loss at 3100 steps: 1806.9044929742813
+	Model Accuracy : 0.811333541599484
+	Model loss at 3200 steps: 1847.7027688622475
+	Model Accuracy : 0.8126098289597001
+	Model loss at 3300 steps: 1889.298581570387
+	Model Accuracy : 0.813659686458649
+	Model loss at 3400 steps: 1929.7216466665268
+	Model Accuracy : 0.8148154954425169
+	Model loss at 3500 steps: 1968.7898705601692
+	Model Accuracy : 0.8159677592116538
+	Model loss at 3600 steps: 2007.745343849063
+	Model Accuracy : 0.8170863996112191
+	Model loss at 3700 steps: 2046.6217407733202
+	Model Accuracy : 0.8182205822750608
+	Model loss at 3800 steps: 2085.419177800417
+	Model Accuracy : 0.8192704222573007
+	Model loss at 3900 steps: 2124.8060533702374
+	Model Accuracy : 0.8201683062035375
+	Model loss at 4000 steps: 2164.3255133628845
+	Model Accuracy : 0.8210115439890028
+	Model loss at 4100 steps: 2202.2519551962614
+	Model Accuracy : 0.8219489148988052
+	Model loss at 4200 steps: 2240.0415169745684
+	Model Accuracy : 0.8228156242561295
+	Model loss for the epoch: 2274.911367163062
+	Training accuracy for epoch: 0.8235202493450782
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/BERT/train.py", line 266, in <module>
+    main()
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/BERT/train.py", line 222, in main
+    validation_loss, eval_acc = valid(model, eval_dataloader, device)
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/BERT/train.py", line 137, in valid
+    loss_main, main_prob = model(
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/nli/BERT/train.py", line 63, in forward
+    output = self.bert(
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 1142, in forward
+    encoder_outputs = self.encoder(
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 695, in forward
+    layer_outputs = layer_module(
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 627, in forward
+    layer_output = apply_chunking_to_forward(
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/pytorch_utils.py", line 255, in apply_chunking_to_forward
+    return forward_fn(*input_tensors)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 640, in feed_forward_chunk
+    layer_output = self.output(intermediate_output, attention_output)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser1/gpuuser1_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/transformers/models/bert/modeling_bert.py", line 554, in forward
+    hidden_states = self.LayerNorm(hidden_states + input_tensor)
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 192.00 MiB. GPU 0 has a total capacity of 79.35 GiB of which 156.19 MiB is free. Process 3169782 has 79.19 GiB memory in use. Of the allocated memory 74.57 GiB is allocated by PyTorch, and 4.13 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

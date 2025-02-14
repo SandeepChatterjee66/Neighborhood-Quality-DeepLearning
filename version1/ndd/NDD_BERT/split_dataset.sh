@@ -1,0 +1,1 @@
+python split_dataset.py --input_path ../datasets/qqp/questions.csv --seed 42

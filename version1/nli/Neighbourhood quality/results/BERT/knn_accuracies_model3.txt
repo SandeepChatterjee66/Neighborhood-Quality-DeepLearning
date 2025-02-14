@@ -1,0 +1,56 @@
+Percentage: 5.0%
+k=5	Accuracy: 0.7775
+k=7	Accuracy: 0.7687
+k=10	Accuracy: 0.7592
+k=20	Accuracy: 0.7452
+k=50	Accuracy: 0.7314
+k=75	Accuracy: 0.7240
+
+Percentage: 10.0%
+k=5	Accuracy: 0.7781
+k=7	Accuracy: 0.7698
+k=10	Accuracy: 0.7612
+k=20	Accuracy: 0.7497
+k=50	Accuracy: 0.7335
+k=75	Accuracy: 0.7263
+
+Percentage: 20.0%
+k=5	Accuracy: 0.7754
+k=7	Accuracy: 0.7669
+k=10	Accuracy: 0.7585
+k=20	Accuracy: 0.7466
+k=50	Accuracy: 0.7312
+k=75	Accuracy: 0.7246
+
+Percentage: 30.0%
+k=5	Accuracy: 0.7745
+k=7	Accuracy: 0.7661
+k=10	Accuracy: 0.7577
+k=20	Accuracy: 0.7458
+k=50	Accuracy: 0.7310
+k=75	Accuracy: 0.7243
+
+Percentage: 40.0%
+k=5	Accuracy: 0.7750
+k=7	Accuracy: 0.7665
+k=10	Accuracy: 0.7580
+k=20	Accuracy: 0.7461
+k=50	Accuracy: 0.7309
+k=75	Accuracy: 0.7243
+
+Percentage: 50.0%
+k=5	Accuracy: 0.7747
+k=7	Accuracy: 0.7667
+k=10	Accuracy: 0.7585
+k=20	Accuracy: 0.7464
+k=50	Accuracy: 0.7317
+k=75	Accuracy: 0.7254
+
+Percentage: 100.0%
+k=5	Accuracy: 0.7753
+k=7	Accuracy: 0.7669
+k=10	Accuracy: 0.7589
+k=20	Accuracy: 0.7465
+k=50	Accuracy: 0.7318
+k=75	Accuracy: 0.7253
+

@@ -1,0 +1,205 @@
+/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT
+Some weights of MainModel were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12.1
+Training model :
+Apa panduan langkah demi langkah untuk berinvestasi di pasar saham di India?
+404290
+Apa panduan langkah demi langkah untuk berinvestasi di pasar saham?
+404290
+data length 404290
+ Mengapa orang Afrika-Amerika begitu cantik?
+40430
+ Mengapa orang hispanik begitu cantik?
+40430
+train, val, test datasize 262789 20214 40430
+Epoch 1:
+	Train loss at 0 steps: 0.7118452787399292
+	Train loss at 100 steps: 58.21581453084946
+	Train Accuracy : 0.6683168316831684
+	Train loss at 200 steps: 109.90492114424706
+	Train Accuracy : 0.6898320895522388
+	Train loss at 300 steps: 160.48175817728043
+	Train Accuracy : 0.701515780730897
+	Train loss at 400 steps: 209.4234250485897
+	Train Accuracy : 0.7125935162094763
+	Train loss at 500 steps: 258.06481927633286
+	Train Accuracy : 0.7180638722554891
+	Train loss at 600 steps: 304.4496506154537
+	Train Accuracy : 0.7264455074875208
+	Train loss at 700 steps: 351.8431798517704
+	Train Accuracy : 0.7315442225392297
+	Train loss at 800 steps: 399.07459822297096
+	Train Accuracy : 0.7350967540574282
+	Train loss at 900 steps: 443.5888594686985
+	Train Accuracy : 0.7399070477247502
+	Train loss at 1000 steps: 489.7094187140465
+	Train Accuracy : 0.7420704295704296
+	Train loss at 1100 steps: 535.0929692685604
+	Train Accuracy : 0.7448058583106267
+	Train loss at 1200 steps: 578.764078065753
+	Train Accuracy : 0.7482306411323897
+	Train loss at 1300 steps: 624.5819592624903
+	Train Accuracy : 0.7496637202152191
+	Train loss at 1400 steps: 668.5318609327078
+	Train Accuracy : 0.7520744111349036
+	Train loss at 1500 steps: 711.6396134644747
+	Train Accuracy : 0.7550174883411059
+	Train loss at 1600 steps: 754.7029485106468
+	Train Accuracy : 0.7572415677701436
+	Train loss at 1700 steps: 798.1716584265232
+	Train Accuracy : 0.7590388007054674
+	Train loss at 1800 steps: 840.882013976574
+	Train Accuracy : 0.7605843975569129
+	Train loss at 1900 steps: 882.3282687962055
+	Train Accuracy : 0.7628057601262493
+	Train loss at 2000 steps: 924.1100547015667
+	Train Accuracy : 0.764414667666167
+	Train loss at 2100 steps: 965.7150715589523
+	Train Accuracy : 0.7661232746311281
+	Train loss at 2200 steps: 1006.6850952506065
+	Train Accuracy : 0.7679037937301226
+	Train loss at 2300 steps: 1049.5843044519424
+	Train Accuracy : 0.7686603650586702
+	Train loss at 2400 steps: 1090.8566351234913
+	Train Accuracy : 0.7703691170345689
+	Train loss at 2500 steps: 1130.7822102159262
+	Train Accuracy : 0.771828768492603
+	Train loss at 2600 steps: 1170.642112776637
+	Train Accuracy : 0.7731401384083045
+	Train loss at 2700 steps: 1210.9373688399792
+	Train Accuracy : 0.7745395223991114
+	Train loss at 2800 steps: 1248.8944045454264
+	Train Accuracy : 0.7761179043198858
+	Train loss at 2900 steps: 1289.2656430453062
+	Train Accuracy : 0.7770704067562909
+	Train loss at 3000 steps: 1330.6419074982405
+	Train Accuracy : 0.7779490169943353
+	Train loss at 3100 steps: 1370.6596929430962
+	Train Accuracy : 0.7789019671073847
+	Train loss at 3200 steps: 1410.5203429162502
+	Train Accuracy : 0.7800003905029679
+	Train loss at 3300 steps: 1449.1850737184286
+	Train Accuracy : 0.7812215995152983
+	Train loss at 3400 steps: 1489.0182374417782
+	Train Accuracy : 0.7818748162305205
+	Train loss at 3500 steps: 1529.3960612267256
+	Train Accuracy : 0.7824728648957441
+	Train loss at 3600 steps: 1568.238315925002
+	Train Accuracy : 0.7833587892252152
+	Train loss at 3700 steps: 1607.6885320693254
+	Train Accuracy : 0.7841630640367468
+	Train loss at 3800 steps: 1647.3274222761393
+	Train Accuracy : 0.7849990134175217
+	Train loss at 3900 steps: 1684.9155169278383
+	Train Accuracy : 0.785912266085619
+	Train loss at 4000 steps: 1721.38994795084
+	Train Accuracy : 0.7869516995751062
+	Train loss at 4100 steps: 1761.193678587675
+	Train Accuracy : 0.7877042184832967
+	Train loss at 4200 steps: 1801.6850974559784
+	Train Accuracy : 0.7882944537014996
+	Train loss at 4300 steps: 1840.5241076797247
+	Train Accuracy : 0.7890316205533597
+	Train loss at 4400 steps: 1879.2461803555489
+	Train Accuracy : 0.7897423880936151
+	Train loss at 4500 steps: 1918.7966526597738
+	Train Accuracy : 0.79031742946012
+	Train loss at 4600 steps: 1957.3645408004522
+	Train Accuracy : 0.7909286024777222
+	Train loss at 4700 steps: 1994.9168845117092
+	Train Accuracy : 0.7916733141884705
+	Train loss at 4800 steps: 2032.432682082057
+	Train Accuracy : 0.792452093313893
+	Train loss at 4900 steps: 2069.1950619369745
+	Train Accuracy : 0.7931417057743317
+	Train loss at 5000 steps: 2107.656024619937
+	Train Accuracy : 0.7936350229954009
+	Train loss at 5100 steps: 2144.3844504132867
+	Train Accuracy : 0.7942008919819643
+	Train loss at 5200 steps: 2181.1558985486627
+	Train Accuracy : 0.7949072293789656
+	Train loss at 5300 steps: 2219.4804145917296
+	Train Accuracy : 0.795586917562724
+	Train loss at 5400 steps: 2256.5529153570533
+	Train Accuracy : 0.7962125069431587
+	Train loss at 5500 steps: 2294.063636429608
+	Train Accuracy : 0.7966733321214324
+	Train loss at 5600 steps: 2332.7435052469373
+	Train Accuracy : 0.7970172737011249
+	Train loss at 5700 steps: 2372.123196311295
+	Train Accuracy : 0.797310778810735
+	Train loss at 5800 steps: 2408.75243563205
+	Train Accuracy : 0.7978904499224272
+	Train loss at 5900 steps: 2446.5558033511043
+	Train Accuracy : 0.7983498559566176
+	Train loss at 6000 steps: 2482.987737350166
+	Train Accuracy : 0.7988928928511915
+	Train loss at 6100 steps: 2518.54893078655
+	Train Accuracy : 0.7995000819537781
+	Train loss at 6200 steps: 2556.29954200238
+	Train Accuracy : 0.7999163441380422
+	Train loss at 6300 steps: 2593.488882251084
+	Train Accuracy : 0.8002797175051579
+	Train loss at 6400 steps: 2631.4520172551274
+	Train Accuracy : 0.800558506483362
+	Train loss at 6500 steps: 2669.2048557028174
+	Train Accuracy : 0.80077103522535
+	Train loss at 6600 steps: 2704.910283200443
+	Train Accuracy : 0.8012564384184214
+	Train loss at 6700 steps: 2740.322362072766
+	Train Accuracy : 0.8017180271601253
+	Train loss at 6800 steps: 2776.6502575203776
+	Train Accuracy : 0.8022165857962065
+	Train loss at 6900 steps: 2815.0069981738925
+	Train Accuracy : 0.8024742790899869
+	Train loss at 7000 steps: 2851.1103990897536
+	Train Accuracy : 0.8028763748035995
+	Train loss at 7100 steps: 2886.8534901812673
+	Train Accuracy : 0.8032275383748768
+	Train loss at 7200 steps: 2922.8444083854556
+	Train Accuracy : 0.8036166851826135
+	Train loss at 7300 steps: 2959.2358861640096
+	Train Accuracy : 0.8040336940145185
+	Train loss at 7400 steps: 2995.0509414598346
+	Train Accuracy : 0.8044183218483989
+	Train loss at 7500 steps: 3030.560011215508
+	Train Accuracy : 0.8048426876416478
+	Train loss at 7600 steps: 3067.6488542333245
+	Train Accuracy : 0.805107880542034
+	Train loss at 7700 steps: 3104.086754851043
+	Train Accuracy : 0.8055285027918452
+	Train loss at 7800 steps: 3141.1168432608247
+	Train Accuracy : 0.8057861171644661
+	Train loss at 7900 steps: 3180.2270167693496
+	Train Accuracy : 0.8058869130489812
+	Train loss at 8000 steps: 3216.1043863222003
+	Train Accuracy : 0.8062351581052368
+	Train loss at 8100 steps: 3253.3501882329583
+	Train Accuracy : 0.8064436489322306
+	Train loss at 8200 steps: 3288.3997736796737
+	Train Accuracy : 0.8068261492500914
+	Train loss for the epoch: 3293.0529378578067
+	Training accuracy for epoch: 0.80681998051869
+	val loss at 0 steps: 0.3123321533203125
+	val loss at 100 steps: 37.64120200276375
+	val Accuracy : 0.8183787128712872
+	val loss at 200 steps: 72.6785414069891
+	val Accuracy : 0.8264925373134329
+	val loss at 300 steps: 108.70517134666443
+	val Accuracy : 0.8303571428571429
+	val loss at 400 steps: 145.0119677335024
+	val Accuracy : 0.8315928927680798
+	val loss at 500 steps: 181.5841288715601
+	val Accuracy : 0.8308383233532934
+	val loss at 600 steps: 217.54304620623589
+	val Accuracy : 0.8311148086522463
+  0%|                                                                      | 0/1264 [00:00<?, ?it/s]  0%|                                                                      | 0/1264 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT/train.py", line 325, in <module>
+    main()
+  File "/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT/train.py", line 272, in main
+    test_acc,_,_ = inference(model, test_dataloader, tokenizer, device)
+  File "/home/gpuuser7/gpuuser7_a/sandeep/NDD_BERT/test.py", line 62, in inference
+    indexes = batch['index']
+KeyError: 'index'

@@ -1,0 +1,14 @@
+{
+  "train_set_path": "../datasets/qqp/train.csv",
+  "validation_set_path": "../../datasets/snli_1.0/snli_1.0_dev.txt",
+  "test_set_path": "../../datasets/snli_1.0/snli_1.0_test.txt",
+  "models_path": "Models",
+  "best_model_path": "Models/BestModel",
+  "batch_size": 64,
+  "fasttext_embeddings_path": "../../../fasttext/wiki-news-300d-1M.vec", 
+  "num_epochs": 30,
+  "log_file_path": "logs/metrics.txt",
+  "embedding_batch_size": 256
+}
+
+

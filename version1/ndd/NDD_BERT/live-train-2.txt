@@ -1,0 +1,56 @@
+Epoch : 1
+	Train Loss at 100 steps : 57.62110048532486
+	Train Accuracy : 0.6732673267326733
+	Train Loss at 200 steps : 109.25979328155518
+	Train Accuracy : 0.6962064676616916
+	Train Loss at 300 steps : 159.4484547674656
+	Train Accuracy : 0.7110672757475083
+	Train Loss at 400 steps : 209.5735052973032
+	Train Accuracy : 0.7182824189526185
+	Train Loss at 500 steps : 258.52024395763874
+	Train Accuracy : 0.7246756487025948
+	Train Loss at 600 steps : 306.9251149147749
+	Train Accuracy : 0.7292013311148087
+	Train Loss at 700 steps : 354.86448730528355
+	Train Accuracy : 0.7331490727532097
+	Train Loss at 800 steps : 400.78005580604076
+	Train Accuracy : 0.7367353308364545
+	Training Accuracy : 0.7370361922141119
+Epoch : 1
+	Train Loss at 100 steps : 58.61411872506142
+	Train Accuracy : 0.6596534653465347
+	Train Loss at 200 steps : 110.19103169441223
+	Train Accuracy : 0.6882773631840796
+	Train Loss at 300 steps : 160.4726660847664
+	Train Accuracy : 0.706187707641196
+	Train Loss at 400 steps : 211.19164484739304
+	Train Accuracy : 0.7123597256857855
+	Train Loss at 500 steps : 260.2152130305767
+	Train Accuracy : 0.71812624750499
+	Train Loss at 600 steps : 308.92574229836464
+	Train Accuracy : 0.7222857737104825
+	Train Loss at 700 steps : 355.7498100399971
+	Train Accuracy : 0.7289140513552068
+	Train Loss at 800 steps : 402.2332277595997
+	Train Accuracy : 0.732521847690387
+	Training Accuracy : 0.7327782846715328
+Epoch : 1
+Epoch : 1
+Epoch : 1
+	Train Loss at 100 steps : 57.79991188645363
+	Train Accuracy : 0.6591584158415843
+	Train Loss at 200 steps : 108.06508174538612
+	Train Accuracy : 0.6948383084577119
+	Train Loss at 300 steps : 156.98675644397736
+	Train Accuracy : 0.7107142857142863
+	Training Accuracy : 0.7150835866261404
+Epoch : 1
+	Train Loss at 100 steps : 57.231120616197586
+	Train Accuracy : 0.6758972772277227
+	Train Loss at 200 steps : 107.53296756744385
+	Train Accuracy : 0.7022699004975125
+	Train Loss at 300 steps : 157.10742074251175
+	Train Accuracy : 0.712780315614618
+	Train Loss at 400 steps : 204.79630532860756
+	Train Accuracy : 0.7231920199501247
+	Training Accuracy : 0.7242168491484184

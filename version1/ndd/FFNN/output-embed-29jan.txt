@@ -1,0 +1,113 @@
+config.json loaded
+device: cuda:0
+fastext lines 999994
+starting to build embeddings
+Loading PCA transformed embeddings from pca_embeddings30.pkl
+built the embeddings 999996 999996 999996
+weights array (999996, 30)
+initial dataset size 404290
+Training set size: 323432
+Validation set size: 40429
+Test set size: 40429
+<class 'int'>
+Apa itu antigen Duffy?
+Apa hubungan antara antigen dan antibodi?
+List written to ./FFNN_NDD/qqp_groundtruth.txt
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 323432})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 323432})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating train_loader.
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+
+Train Embeddings 1
+total time taken is  879.9661815166473
+
+Train Embeddings 2
+total time taken is  859.2342779636383
+
+Train Embeddings 3
+total time taken is  836.5068237781525
+
+Train Embeddings 4
+total time taken is  857.8445403575897
+
+Train Embeddings 5
+total time taken is  885.5022008419037
+
+Train Embeddings 6
+total time taken is  892.0753309726715
+
+Train Embeddings 7
+total time taken is  765.2533214092255
+
+Train Embeddings 8
+total time taken is  954.233921289444
+
+Train Embeddings 9
+total time taken is  577.8570125102997
+
+Train Embeddings 10
+total time taken is  592.1490759849548
+
+Train Embeddings 11
+total time taken is  590.3368101119995
+
+Train Embeddings 12
+total time taken is  575.9673166275024
+
+Train Embeddings 13
+total time taken is  576.4643869400024
+
+Train Embeddings 14
+total time taken is  577.589284658432
+
+Train Embeddings 15
+total time taken is  574.5447092056274
+Traceback (most recent call last):
+  File "/home/gpuuser1/gpuuser1_a/sandeep/sandeep/ndd/FFNN/gen-embed.py", line 540, in <module>
+    model_test = TwoSentenceModel(emb_size = EMBED_SIZE, hidden_size=300, num_layers=1, num_classes=2).to(device)
+TypeError: TwoSentenceModel.__init__() got an unexpected keyword argument 'num_layers'

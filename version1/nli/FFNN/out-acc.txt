@@ -1,0 +1,88 @@
+device: cuda:0
+config.json loaded
+device: cuda:0
+fastext lines 999994
+Loading PCA transformed embeddings from pca_embeddings30.pkl
+len of sen1 train sent2 train labels train 549367 549367 549367
+{10, 12, 13, 14} 0
+Size of training data: 549367
+
+Tokenizing sentence 1 list...
+549367
+<class 'str'>
+defaultdict(<class 'int'>, {<class 'str'>: 549367})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 549367})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating data_loader ../datasets/snli_1.0/snli_1.0_train.txt
+len of sen1 train sent2 train labels train 9842 9842 9842
+{13, 14} 0
+Size of training data: 9842
+
+Tokenizing sentence 1 list...
+9842
+<class 'str'>
+defaultdict(<class 'int'>, {<class 'str'>: 9842})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 9842})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating data_loader ../datasets/snli_1.0/snli_1.0_dev.txt
+len of sen1 train sent2 train labels train 9824 9824 9824
+{13, 14} 0
+Size of training data: 9824
+
+Tokenizing sentence 1 list...
+9824
+<class 'str'>
+defaultdict(<class 'int'>, {<class 'str'>: 9824})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 9824})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating data_loader ../datasets/snli_1.0/snli_1.0_test.txt
+Inference single pass - time taken for epoch 1: 23.75812554359436
+Inference single pass - time taken for epoch 2: 24.80764889717102
+Inference single pass - time taken for epoch 3: 23.86482334136963
+Inference single pass - time taken for epoch 4: 24.050048828125
+Inference single pass - time taken for epoch 5: 23.784785509109497
+Inference single pass - time taken for epoch 6: 26.84438467025757
+Inference single pass - time taken for epoch 7: 24.571022272109985
+Inference single pass - time taken for epoch 8: 25.128857612609863
+Inference single pass - time taken for epoch 9: 24.227670907974243
+Inference single pass - time taken for epoch 10: 23.49251699447632
+Inference single pass - time taken for epoch 11: 24.558268547058105
+Inference single pass - time taken for epoch 12: 24.24063539505005
+Inference single pass - time taken for epoch 15: 23.84067988395691
+Inference single pass - time taken for epoch 18: 24.516725540161133
+Inference single pass - time taken for epoch 21: 24.556180715560913
+Inference single pass - time taken for epoch 27: 24.84414291381836
+Inference single pass - time taken for epoch 30: 24.428679943084717

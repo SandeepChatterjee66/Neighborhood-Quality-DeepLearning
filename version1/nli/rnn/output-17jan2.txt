@@ -1,0 +1,102 @@
+cuda:0
+config.json loaded
+device: cuda:0
+fastext lines 999994
+starting to build embeddings
+built the embeddings 999996 999996 999996
+weights array (999996, 300)
+len of sen1 train sent2 train labels train 549367 549367 549367
+{10, 12, 13, 14} 0
+Size of training data: 549367
+
+Verifying that the data and label match after shuffling
+A person on a horse jumps over a broken down airplane.
+A person is outdoors, on a horse.
+A young girl is sitting at a table writing.
+A girl is doing her English homework before a roaring fire.
+1
+A man in a yellow shirt is standing in the sidewalk measuring.
+the man is measuring how long the sidewalk is
+1
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating train_loader.
+{13, 14}
+Size of val data: 9842
+
+Verifying that the data and label match after shuffling
+Two women are embracing while holding to go packages.
+The men are fighting outside a deli.
+A man in a hard hat and orange safety vest works on a machine in smoky air.
+An old man in a hard hat and orange safety vest works on a yellow maching in smokey air.
+1
+A boy in an orange shirt sells fruit from a street cart.
+A boy works his fathers street cart selling fruit.
+1
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+{13, 14}
+
+Verifying that the data and label match after shuffling
+This church choir sings to the masses as they sing joyous songs from the book at a church.
+A choir singing at a baseball game.
+A woman in black is getting ready in her bathroom.
+The woman is wearing black
+2
+Three people are dressed in costumes and playing musical instruments.
+The people are playing at a festival.
+1
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Traceback (most recent call last):
+  File "/home/gpuuser7/gpuuser7_a/sandeep/saipriya/Recurrent Neural Network/Natural Language Inference/rnn-nli-train.py", line 509, in <module>
+    max_val_acc, losses, xs, val_accs = train_model(model, num_epochs=30)
+  File "/home/gpuuser7/gpuuser7_a/sandeep/saipriya/Recurrent Neural Network/Natural Language Inference/rnn-nli-train.py", line 469, in train_model
+    outputs = model(data_batch, sent1_length_batch, sent2_length_batch)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/sandeep/saipriya/Recurrent Neural Network/Natural Language Inference/rnn-nli-train.py", line 415, in forward
+    rnn_out, self.hidden = self.rnn(embed, self.hidden)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/rnn.py", line 1390, in forward
+    self.check_forward_args(input, hx, batch_sizes)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/rnn.py", line 361, in check_forward_args
+    self.check_input(input, batch_sizes)
+  File "/home/gpuuser7/gpuuser7_a/miniconda3/envs/sai_sandeep/lib/python3.10/site-packages/torch/nn/modules/rnn.py", line 308, in check_input
+    raise RuntimeError(
+RuntimeError: input must have 2 dimensions, got 3

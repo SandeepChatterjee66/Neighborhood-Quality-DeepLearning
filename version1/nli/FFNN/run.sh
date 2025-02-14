@@ -1,0 +1,1 @@
+nohup python3 -u train.py > output-train-jan26-1.txt &

@@ -1,0 +1,135 @@
+/home/gpuuser7/gpuuser7_a/sandeep/saipriya/Recurrent Neural Network/Natural Language Inference/embedgen-rnn-nli.py:481: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load(model_path))
+/home/gpuuser7/gpuuser7_a/sandeep/saipriya/Recurrent Neural Network/Natural Language Inference/embedgen-rnn-nli.py:516: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model_test.load_state_dict(torch.load(best_model_path))
+config.json loaded
+cuda:0
+999994
+Loading PCA transformed embeddings from embeddings300.pkl
+len of sen1 train sent2 train labels train 549367 549367 549367
+{10, 12, 13, 14} 0
+Size of training data: 549367
+
+Verifying that the data and label match after shuffling
+A person on a horse jumps over a broken down airplane.
+A person is outdoors, on a horse.
+A person on a horse jumps over a broken down airplane.
+A person is outdoors, on a horse.
+2
+A person on a horse jumps over a broken down airplane.
+A person is outdoors, on a horse.
+2
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating train_loader.
+{13, 14}
+Size of val data: 9842
+
+Verifying that the data and label match after shuffling
+Two women are embracing while holding to go packages.
+The men are fighting outside a deli.
+Two women are embracing while holding to go packages.
+The men are fighting outside a deli.
+0
+Two women are embracing while holding to go packages.
+The men are fighting outside a deli.
+0
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+{13, 14}
+
+Verifying that the data and label match after shuffling
+This church choir sings to the masses as they sing joyous songs from the book at a church.
+A choir singing at a baseball game.
+This church choir sings to the masses as they sing joyous songs from the book at a church.
+A choir singing at a baseball game.
+0
+This church choir sings to the masses as they sing joyous songs from the book at a church.
+A choir singing at a baseball game.
+0
+
+Tokenizing sentence 1 list...
+done!
+
+Tokenizing sentence 2 list... 
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+
+Train Embeddings 1
+
+Test Embeddings
+1 total time taken is 6687.342179059982
+
+Train Embeddings 2
+
+Test Embeddings
+2 total time taken is 6649.675619363785
+
+Train Embeddings 3
+
+Test Embeddings
+3 total time taken is 6606.295590400696
+
+Train Embeddings 4
+
+Test Embeddings
+4 total time taken is 6614.861499547958
+
+Train Embeddings 5
+
+Test Embeddings
+5 total time taken is 6631.160937070847
+
+Train Embeddings 6
+
+Test Embeddings
+6 total time taken is 6642.905957698822
+
+Train Embeddings 7
+
+Test Embeddings
+7 total time taken is 6647.882511138916
+
+Train Embeddings 8
+
+Test Embeddings
+8 total time taken is 6582.7919981479645
+
+Train Embeddings 9
+
+Test Embeddings
+9 total time taken is 6656.105242729187
+
+Train Embeddings 10
+
+Test Embeddings
+10 total time taken is 6658.435997724533
+Traceback (most recent call last):
+  File "/home/gpuuser7/gpuuser7_a/sandeep/saipriya/Recurrent Neural Network/Natural Language Inference/embedgen-rnn-nli.py", line 518, in <module>
+    _, labels = test_model(test_loader, model_test)
+TypeError: cannot unpack non-iterable float object

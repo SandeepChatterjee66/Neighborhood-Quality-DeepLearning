@@ -1,0 +1,127 @@
+cuda:0
+config.json loaded
+device: cuda:0
+fastext lines 999994
+starting to build embeddings
+Loading PCA transformed embeddings from embeddings300.pkl
+built the embeddings 999996 999996 999996
+initial dataset size 404290
+Training set size: 323432
+Validation set size: 40429
+Test set size: 40429
+<class 'int'>
+Apa itu antigen Duffy?
+Apa hubungan antara antigen dan antibodi?
+Random seed for shuffling: 76
+
+Verifying that the data and label match after shuffling
+Apa fungsi lendir pada saluran pernapasan?
+Apa fungsi lendir pada lambung? Bagaimana fungsinya?
+0
+Bisakah kita mencintai dua orang sekaligus?
+Apakah mungkin untuk mencintai lebih dari satu orang pada saat yang sama?
+1
+323432
+Berapa nilai 1 dolar dalam rupee india?
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 323432})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 323432})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Finished creating train_loader.
+Random seed for shuffling: 90
+
+Verifying that the data and label match after shuffling
+Berapa peluang menerima undangan untuk melamar dari Kanada dengan skor CRS kurang dari 420?
+Berapa peluang menerima undangan untuk melamar dari Kanada dengan skor CRS kurang dari 400?
+0
+Bagaimana proses menyembunyikan pekerjaan sebelumnya di India?
+Apakah semua dokter dapat dipekerjakan di India?
+0
+40429
+Apa keuntungannya jika seluruh dunia berbicara dalam satu bahasa?
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+Random seed for shuffling: 71
+
+Verifying that the data and label match after shuffling
+Bagaimana cara mengurangi kecerahan Nokia Asha 302?
+Untuk berapa saya bisa menjual Nokia Asha 305 saya di Mumbai?
+0
+Bagaimana seharusnya Anda menjawab pertanyaan wawancara "Ceritakan sesuatu tentang diri Anda?"
+Apa jawaban untuk memberitahu saya tentang diri Anda wawancara?
+1
+40429
+Planet apa yang dihancurkan Starkiller Base di Star Wars: The Force Awakens?
+
+Tokenizing sentence 1 list...
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+Tokenizing sentence 2 list... 
+defaultdict(<class 'int'>, {<class 'str'>: 40429})
+[]
+done!
+
+One-hot encoding words for sentence 1 list...
+done!
+
+One-hot encoding words for sentence 2 list...
+done!
+test accuracy at epoch 1 is 70.6349402656509
+test accuracy at epoch 2 is 73.41759627989809
+test accuracy at epoch 3 is 75.13418585668703
+test accuracy at epoch 4 is 76.50696282371565
+test accuracy at epoch 5 is 77.43451482846471
+test accuracy at epoch 6 is 77.85500507061762
+test accuracy at epoch 7 is 78.37196072126444
+test accuracy at epoch 8 is 78.62920181058152
+test accuracy at epoch 9 is 78.6168344505182
+test accuracy at epoch 10 is 78.6440426426575
+test accuracy at epoch 11 is 78.84686734769596
+test accuracy at epoch 12 is 78.93838581216454
+Validation accuracy didn't improve for 3 epochs. Early stopping at 14
+test accuracy at epoch 15 is 78.58467931435356
+Validation accuracy didn't improve for 3 epochs. Early stopping at 15
+Validation accuracy didn't improve for 3 epochs. Early stopping at 16
+Validation accuracy didn't improve for 3 epochs. Early stopping at 17
+test accuracy at epoch 18 is 79.23520245368424
+Validation accuracy didn't improve for 3 epochs. Early stopping at 18
+Validation accuracy didn't improve for 3 epochs. Early stopping at 19
+Validation accuracy didn't improve for 3 epochs. Early stopping at 20
+test accuracy at epoch 21 is 79.33166786217814
+Validation accuracy didn't improve for 3 epochs. Early stopping at 21
+Validation accuracy didn't improve for 3 epochs. Early stopping at 22
+Validation accuracy didn't improve for 3 epochs. Early stopping at 23
+test accuracy at epoch 24 is 79.54191298325459
+test accuracy at epoch 27 is 79.11647579707636
+Validation accuracy didn't improve for 3 epochs. Early stopping at 28
+Validation accuracy didn't improve for 3 epochs. Early stopping at 29
+test accuracy at epoch 30 is 79.47018229488734
+Max Validation Accuracy: 0
