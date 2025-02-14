@@ -1,0 +1,41 @@
+Processing model 1...
+Execution completed in 3.32s
+Completed processing for model 1
+------------------------------
+Processing model 2...
+Execution completed in 3.57s
+Completed processing for model 2
+------------------------------
+Processing model 3...
+Execution completed in 3.47s
+Completed processing for model 3
+------------------------------
+Processing model 4...
+Execution completed in 2.65s
+Completed processing for model 4
+------------------------------
+Processing model 5...
+Execution completed in 2.90s
+Completed processing for model 5
+------------------------------
+Processing model 6...
+Execution completed in 2.85s
+Completed processing for model 6
+------------------------------
+Processing model 7...
+Execution completed in 3.38s
+Completed processing for model 7
+------------------------------
+Processing model 8...
+Execution completed in 2.85s
+Completed processing for model 8
+------------------------------
+Processing model 9...
+Execution completed in 2.40s
+Completed processing for model 9
+------------------------------
+Processing model 10...
+Execution completed in 2.51s
+Completed processing for model 10
+------------------------------
+All models processed!

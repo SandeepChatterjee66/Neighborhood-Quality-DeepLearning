@@ -1,0 +1,31 @@
+
+Generating embeddings for epoch 1
+Total time taken: 12.67 seconds
+
+Generating embeddings for epoch 2
+Total time taken: 12.49 seconds
+
+Generating embeddings for epoch 3
+Total time taken: 12.44 seconds
+
+Generating embeddings for epoch 4
+Total time taken: 12.11 seconds
+
+Generating embeddings for epoch 5
+Total time taken: 12.05 seconds
+
+Generating embeddings for epoch 6
+Total time taken: 12.37 seconds
+
+Generating embeddings for epoch 7
+Total time taken: 12.59 seconds
+
+Generating embeddings for epoch 8
+Total time taken: 12.21 seconds
+
+Generating embeddings for epoch 9
+Total time taken: 12.06 seconds
+
+Generating embeddings for epoch 10
+Total time taken: 12.38 seconds
+Embedding generation complete!
